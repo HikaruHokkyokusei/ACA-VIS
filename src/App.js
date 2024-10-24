@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ForceGraph from './graph/ForceGraph1';
+import ForceGraph from './graph/ForceGraph';
 
 function App() {
   return (
