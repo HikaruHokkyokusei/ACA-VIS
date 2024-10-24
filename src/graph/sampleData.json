@@ -1,20 +1,23 @@
 {
+    "lawPageNumbers": {"1001": {"pageNumber": "928"}, "1002": {"pageNumber": "929"}, "1003": {"pageNumber": "929"}, "1004": {"pageNumber": "929"}, "1101": {"pageNumber": "931"}, "1102": {"pageNumber": "934"}, "1103": {"pageNumber": "939"}, "1104": {"pageNumber": "940"}, "1105": {"pageNumber": "940"}, "1201": {"pageNumber": "931"}, "1251": {"pageNumber": "55"}, "1252": {"pageNumber": "56"}, "1253": {"pageNumber": "56"}, "1254": {"pageNumber": "57"}, "1255": {"pageNumber": "57"}, "1301": {"pageNumber": "944"}, "1302": {"pageNumber": "944"}, "1303": {"pageNumber": "944"}, "1304": {"pageNumber": "945"}, "1311": {"pageNumber": "69"}, "1312": {"pageNumber": "80"}, "1313": {"pageNumber": "83"}, "1321": {"pageNumber": "85"}, "1322": {"pageNumber": "86"}, "1323": {"pageNumber": "92"}, "1324": {"pageNumber": "93"}, "1331": {"pageNumber": "93"}, "1332": {"pageNumber": "98"}, "1333": {"pageNumber": "100"}, "1334": {"pageNumber": "101"}, "1341": {"pageNumber": "105"}, "1342": {"pageNumber": "108"}, "1343": {"pageNumber": "109"}, "1401": {"pageNumber": "945"}, "1402": {"pageNumber": "946"}, "1411": {"pageNumber": "123"}, "1412": {"pageNumber": "131"}, "1413": {"pageNumber": "133"}, "1414": {"pageNumber": "135"}, "1415": {"pageNumber": "137"}, "1416": {"pageNumber": "137"}, "1421": {"pageNumber": "138"}, "1501": {"pageNumber": "953"}, "1502": {"pageNumber": "151"}, "1511": {"pageNumber": "154"}, "1512": {"pageNumber": "154"}, "1513": {"pageNumber": "155"}, "1514": {"pageNumber": "159"}, "1515": {"pageNumber": "161"}, "1551": {"pageNumber": "164"}, "1552": {"pageNumber": "164"}, "1553": {"pageNumber": "164"}, "1554": {"pageNumber": "165"}, "1555": {"pageNumber": "165"}, "1556": {"pageNumber": "165"}, "1557": {"pageNumber": "166"}, "1558": {"pageNumber": "166"}, "1559": {"pageNumber": "167"}, "1560": {"pageNumber": "167"}, "1561": {"pageNumber": "168"}, "1562": {"pageNumber": "170"}, "1563": {"pageNumber": "170"}, "2001": {"pageNumber": "179"}, "2002": {"pageNumber": "186"}, "2003": {"pageNumber": "190"}, "2004": {"pageNumber": "191"}, "2005": {"pageNumber": "191"}, "2006": {"pageNumber": "192"}, "2007": {"pageNumber": "193"}, "2101": {"pageNumber": "194"}, "2102": {"pageNumber": "197"}, "2201": {"pageNumber": "198"}, "2202": {"pageNumber": "200"}, "2301": {"pageNumber": "954"}, "2302": {"pageNumber": "954"}, "2303": {"pageNumber": "955"}, "2304": {"pageNumber": "206"}, "2401": {"pageNumber": "206"}, "2402": {"pageNumber": "211"}, "2403": {"pageNumber": "214"}, "2404": {"pageNumber": "215"}, "2405": {"pageNumber": "215"}, "2406": {"pageNumber": "215"}, "2501": {"pageNumber": "216"}, "2502": {"pageNumber": "219"}, "2503": {"pageNumber": "220"}, "2551": {"pageNumber": "223"}, "2601": {"pageNumber": "224"}, "2602": {"pageNumber": "225"}, "2701": {"pageNumber": "227"}, "2702": {"pageNumber": "229"}, "2703": {"pageNumber": "229"}, "2704": {"pageNumber": "233"}, "2705": {"pageNumber": "235"}, "2706": {"pageNumber": "236"}, "2707": {"pageNumber": "237"}, "2801": {"pageNumber": "239"}, "2901": {"pageNumber": "244"}, "2902": {"pageNumber": "244"}, "2951": {"pageNumber": "245"}, "2952": {"pageNumber": "255"}, "2953": {"pageNumber": "258"}, "2954": {"pageNumber": "263"}, "2955": {"pageNumber": "264"}, "3001": {"pageNumber": "266"}, "3002": {"pageNumber": "277"}, "3003": {"pageNumber": "279"}, "3004": {"pageNumber": "282"}, "3005": {"pageNumber": "285"}, "3006": {"pageNumber": "286"}, "3007": {"pageNumber": "288"}, "3008": {"pageNumber": "291"}, "3011": {"pageNumber": "293"}, "3012": {"pageNumber": "295"}, "3013": {"pageNumber": "296"}, "3014": {"pageNumber": "300"}, "3015": {"pageNumber": "304"}, "3021": {"pageNumber": "306"}, "3022": {"pageNumber": "313"}, "3023": {"pageNumber": "318"}, "3024": {"pageNumber": "324"}, "3025": {"pageNumber": "328"}, "3026": {"pageNumber": "333"}, "3027": {"pageNumber": "335"}, "3101": {"pageNumber": "336"}, "3102": {"pageNumber": "336"}, "3103": {"pageNumber": "338"}, "3104": {"pageNumber": "338"}, "3105": {"pageNumber": "338"}, "3106": {"pageNumber": "338"}, "3107": {"pageNumber": "338"}, "3108": {"pageNumber": "339"}, "3109": {"pageNumber": "339"}, "3110": {"pageNumber": "340"}, "3111": {"pageNumber": "341"}, "3112": {"pageNumber": "342"}, "3113": {"pageNumber": "342"}, "3114": {"pageNumber": "343"}, "3121": {"pageNumber": "344"}, "3122": {"pageNumber": "344"}, "3123": {"pageNumber": "344"}, "3124": {"pageNumber": "345"}, "3125": {"pageNumber": "346"}, "3126": {"pageNumber": "346"}, "3127": {"pageNumber": "347"}, "3128": {"pageNumber": "347"}, "3129": {"pageNumber": "347"}, "3131": {"pageNumber": "348"}, "3132": {"pageNumber": "352"}, "3133": {"pageNumber": "354"}, "3134": {"pageNumber": "356"}, "3135": {"pageNumber": "358"}, "3136": {"pageNumber": "359"}, "3137": {"pageNumber": "360"}, "3138": {"pageNumber": "362"}, "3139": {"pageNumber": "362"}, "3140": {"pageNumber": "363"}, "3141": {"pageNumber": "364"}, "3142": {"pageNumber": "364"}, "3143": {"pageNumber": "365"}, "3201": {"pageNumber": "365"}, "3202": {"pageNumber": "370"}, "3203": {"pageNumber": "372"}, "3204": {"pageNumber": "373"}, "3205": {"pageNumber": "373"}, "3206": {"pageNumber": "376"}, "3207": {"pageNumber": "376"}, "3208": {"pageNumber": "376"}, "3209": {"pageNumber": "377"}, "3210": {"pageNumber": "377"}, "3301": {"pageNumber": "378"}, "3302": {"pageNumber": "386"}, "3303": {"pageNumber": "386"}, "3304": {"pageNumber": "387"}, "3305": {"pageNumber": "387"}, "3306": {"pageNumber": "388"}, "3307": {"pageNumber": "389"}, "3308": {"pageNumber": "390"}, "3309": {"pageNumber": "393"}, "3310": {"pageNumber": "393"}, "3311": {"pageNumber": "394"}, "3312": {"pageNumber": "394"}, "3313": {"pageNumber": "395"}, "3314": {"pageNumber": "396"}, "3315": {"pageNumber": "397"}, "3401": {"pageNumber": "398"}, "3402": {"pageNumber": "407"}, "3403": {"pageNumber": "407"}, "3501": {"pageNumber": "429"}, "3502": {"pageNumber": "435"}, "3503": {"pageNumber": "438"}, "3504": {"pageNumber": "440"}, "3505": {"pageNumber": "444"}, "3506": {"pageNumber": "450"}, "3507": {"pageNumber": "453"}, "3508": {"pageNumber": "453"}, "3509": {"pageNumber": "454"}, "3510": {"pageNumber": "460"}, "3511": {"pageNumber": "461"}, "3512": {"pageNumber": "461"}, "3601": {"pageNumber": "462"}, "3602": {"pageNumber": "462"}, "4001": {"pageNumber": "463"}, "4002": {"pageNumber": "466"}, "4003": {"pageNumber": "466"}, "4004": {"pageNumber": "469"}, "4101": {"pageNumber": "471"}, "4102": {"pageNumber": "476"}, "4103": {"pageNumber": "478"}, "4104": {"pageNumber": "482"}, "4105": {"pageNumber": "483"}, "4106": {"pageNumber": "484"}, "4107": {"pageNumber": "485"}, "4108": {"pageNumber": "486"}, "4201": {"pageNumber": "489"}, "4202": {"pageNumber": "492"}, "4203": {"pageNumber": "496"}, "4204": {"pageNumber": "496"}, "4205": {"pageNumber": "499"}, "4206": {"pageNumber": "502"}, "4207": {"pageNumber": "503"}, "4301": {"pageNumber": "504"}, "4302": {"pageNumber": "504"}, "4303": {"pageNumber": "509"}, "4304": {"pageNumber": "510"}, "4305": {"pageNumber": "511"}, "4306": {"pageNumber": "513"}, "4401": {"pageNumber": "514"}, "4402": {"pageNumber": "514"}, "5001": {"pageNumber": "515"}, "5002": {"pageNumber": "515"}, "5101": {"pageNumber": "519"}, "5102": {"pageNumber": "526"}, "5103": {"pageNumber": "531"}, "5104": {"pageNumber": "534"}, "5201": {"pageNumber": "535"}, "5202": {"pageNumber": "535"}, "5203": {"pageNumber": "536"}, "5204": {"pageNumber": "538"}, "5205": {"pageNumber": "540"}, "5206": {"pageNumber": "540"}, "5207": {"pageNumber": "541"}, "5208": {"pageNumber": "542"}, "5209": {"pageNumber": "534"}, "5210": {"pageNumber": "543"}, "5301": {"pageNumber": "544"}, "5302": {"pageNumber": "547"}, "5303": {"pageNumber": "548"}, "5304": {"pageNumber": "550"}, "5305": {"pageNumber": "552"}, "5306": {"pageNumber": "555"}, "5307": {"pageNumber": "558"}, "5308": {"pageNumber": "559"}, "5309": {"pageNumber": "559"}, "5310": {"pageNumber": "561"}, "5311": {"pageNumber": "561"}, "5312": {"pageNumber": "563"}, "5313": {"pageNumber": "564"}, "5314": {"pageNumber": "566"}, "5315": {"pageNumber": "567"}, "5316": {"pageNumber": "572"}, "5401": {"pageNumber": "574"}, "5402": {"pageNumber": "576"}, "5403": {"pageNumber": "576"}, "5404": {"pageNumber": "581"}, "5405": {"pageNumber": "582"}, "5501": {"pageNumber": "585"}, "5502": {"pageNumber": "587"}, "5503": {"pageNumber": "587"}, "5504": {"pageNumber": "590"}, "5505": {"pageNumber": "591"}, "5506": {"pageNumber": "593"}, "5507": {"pageNumber": "595"}, "5508": {"pageNumber": "601"}, "5509": {"pageNumber": "606"}, "5601": {"pageNumber": "609"}, "5602": {"pageNumber": "610"}, "5603": {"pageNumber": "612"}, "5604": {"pageNumber": "612"}, "5605": {"pageNumber": "613"}, "5606": {"pageNumber": "617"}, "5701": {"pageNumber": "618"}, "6001": {"pageNumber": "619"}, "6002": {"pageNumber": "624"}, "6003": {"pageNumber": "632"}, "6004": {"pageNumber": "632"}, "6005": {"pageNumber": "633"}, "6101": {"pageNumber": "635"}, "6102": {"pageNumber": "638"}, "6103": {"pageNumber": "640"}, "6104": {"pageNumber": "647"}, "6105": {"pageNumber": "648"}, "6106": {"pageNumber": "648"}, "6111": {"pageNumber": "649"}, "6112": {"pageNumber": "653"}, "6113": {"pageNumber": "655"}, "6114": {"pageNumber": "656"}, "6121": {"pageNumber": "657"}, "6201": {"pageNumber": "658"}, "6301": {"pageNumber": "664"}, "6302": {"pageNumber": "685"}, "6401": {"pageNumber": "685"}, "6402": {"pageNumber": "691"}, "6403": {"pageNumber": "702"}, "6404": {"pageNumber": "707"}, "6405": {"pageNumber": "708"}, "6406": {"pageNumber": "708"}, "6407": {"pageNumber": "709"}, "6408": {"pageNumber": "710"}, "6409": {"pageNumber": "712"}, "6410": {"pageNumber": "713"}, "6411": {"pageNumber": "714"}, "6501": {"pageNumber": "716"}, "6502": {"pageNumber": "716"}, "6503": {"pageNumber": "716"}, "6504": {"pageNumber": "717"}, "6505": {"pageNumber": "717"}, "6506": {"pageNumber": "717"}, "6507": {"pageNumber": "718"}, "6508": {"pageNumber": "719"}, "6601": {"pageNumber": "719"}, "6602": {"pageNumber": "720"}, "6603": {"pageNumber": "720"}, "6604": {"pageNumber": "720"}, "6605": {"pageNumber": "721"}, "6606": {"pageNumber": "722"}, "6607": {"pageNumber": "722"}, "6701": {"pageNumber": "722"}, "6702": {"pageNumber": "722"}, "6703": {"pageNumber": "722"}, "6801": {"pageNumber": "745"}, "7001": {"pageNumber": "747"}, "7002": {"pageNumber": "747"}, "7003": {"pageNumber": "764"}, "7101": {"pageNumber": "764"}, "7102": {"pageNumber": "767"}, "7103": {"pageNumber": "771"}, "8001": {"pageNumber": "772"}, "8002": {"pageNumber": "772"}, "9001": {"pageNumber": "793"}, "9002": {"pageNumber": "800"}, "9003": {"pageNumber": "800"}, "9004": {"pageNumber": "801"}, "9005": {"pageNumber": "801"}, "9006": {"pageNumber": "801"}, "9007": {"pageNumber": "802"}, "9008": {"pageNumber": "806"}, "9009": {"pageNumber": "810"}, "9010": {"pageNumber": "811"}, "9011": {"pageNumber": "815"}, "9012": {"pageNumber": "816"}, "9013": {"pageNumber": "816"}, "9014": {"pageNumber": "816"}, "9015": {"pageNumber": "818"}, "9016": {"pageNumber": "820"}, "9017": {"pageNumber": "820"}, "9021": {"pageNumber": "821"}, "9022": {"pageNumber": "822"}, "9023": {"pageNumber": "825"}, "10101": {"pageNumber": "833"}, "10102": {"pageNumber": "833"}, "10103": {"pageNumber": "833"}, "10104": {"pageNumber": "834"}, "10105": {"pageNumber": "834"}, "10106": {"pageNumber": "835"}, "10107": {"pageNumber": "835"}, "10108": {"pageNumber": "835"}, "10109": {"pageNumber": "838"}, "10201": {"pageNumber": "839"}, "10202": {"pageNumber": "845"}, "10203": {"pageNumber": "848"}, "10211": {"pageNumber": "852"}, "10212": {"pageNumber": "853"}, "10213": {"pageNumber": "853"}, "10214": {"pageNumber": "856"}, "10221": {"pageNumber": "857"}, "10301": {"pageNumber": "858"}, "10302": {"pageNumber": "858"}, "10303": {"pageNumber": "858"}, "10304": {"pageNumber": "858"}, "10305": {"pageNumber": "858"}, "10306": {"pageNumber": "859"}, "10307": {"pageNumber": "859"}, "10308": {"pageNumber": "859"}, "10309": {"pageNumber": "859"}, "10310": {"pageNumber": "859"}, "10311": {"pageNumber": "859"}, "10312": {"pageNumber": "859"}, "10313": {"pageNumber": "860"}, "10314": {"pageNumber": "860"}, "10315": {"pageNumber": "860"}, "10316": {"pageNumber": "860"}, "10317": {"pageNumber": "860"}, "10318": {"pageNumber": "860"}, "10319": {"pageNumber": "860"}, "10320": {"pageNumber": "861"}, "10321": {"pageNumber": "861"}, "10322": {"pageNumber": "861"}, "10323": {"pageNumber": "863"}, "10324": {"pageNumber": "868"}, "10325": {"pageNumber": "870"}, "10326": {"pageNumber": "870"}, "10327": {"pageNumber": "871"}, "10328": {"pageNumber": "873"}, "10329": {"pageNumber": "874"}, "10330": {"pageNumber": "875"}, "10331": {"pageNumber": "875"}, "10332": {"pageNumber": "877"}, "10333": {"pageNumber": "879"}, "10334": {"pageNumber": "880"}, "10335": {"pageNumber": "883"}, "10336": {"pageNumber": "884"}, "10401": {"pageNumber": "884"}, "10402": {"pageNumber": "884"}, "10403": {"pageNumber": "884"}, "10404": {"pageNumber": "885"}, "10405": {"pageNumber": "885"}, "10406": {"pageNumber": "885"}, "10407": {"pageNumber": "885"}, "10408": {"pageNumber": "886"}, "10409": {"pageNumber": "887"}, "10410": {"pageNumber": "894"}, "10411": {"pageNumber": "898"}, "10412": {"pageNumber": "899"}, "10413": {"pageNumber": "900"}, "10501": {"pageNumber": "903"}, "10502": {"pageNumber": "910"}, "10503": {"pageNumber": "910"}, "10504": {"pageNumber": "911"}, "10601": {"pageNumber": "911"}, "10602": {"pageNumber": "912"}, "10603": {"pageNumber": "912"}, "10604": {"pageNumber": "912"}, "10605": {"pageNumber": "912"}, "10606": {"pageNumber": "912"}, "10607": {"pageNumber": "915"}, "10608": {"pageNumber": "920"}, "10609": {"pageNumber": "920"}, "10801": {"pageNumber": "921"}, "10901": {"pageNumber": "921"}, "10902": {"pageNumber": "921"}, "10903": {"pageNumber": "922"}, "10904": {"pageNumber": "922"}, "10905": {"pageNumber": "922"}, "10906": {"pageNumber": "922"}, "10907": {"pageNumber": "922"}, "10908": {"pageNumber": "923"}, "10909": {"pageNumber": "924"}, "1005": {"pageNumber": "931"}, "1106": {"pageNumber": "940"}, "1107": {"pageNumber": "941"}, "1108": {"pageNumber": "941"}, "1109": {"pageNumber": "941"}, "1202": {"pageNumber": "942"}, "1203": {"pageNumber": "943"}, "1204": {"pageNumber": "943"}, "1205": {"pageNumber": "944"}, "1206": {"pageNumber": "944"}, "1403": {"pageNumber": "948"}, "1404": {"pageNumber": "948"}, "1405": {"pageNumber": "949"}, "1406": {"pageNumber": "950"}, "1407": {"pageNumber": "950"}, "1408": {"pageNumber": "950"}, "1409": {"pageNumber": "950"}, "1410": {"pageNumber": "953"}},
     "nodes": [
         {
             "NodeText": "President",
             "id": 1,
-            "Subtext": "\u00a7\u00a7 3012, 3024, 3403, 4001, 8002, 10320,",
+            "Subtext": "3012, 3024, 3403, 4001, 8002, 10320",
+            "subtextFormat": [],
             "group": "EG1",
             "IN": 2,
             "OUT": 4,
             "NOR": 8,
             "total": 14,
-            "Remarks": null
+            "Remarks": null,
+            "Laws": [3012,3024,3403,4001,8002,10320]
         },
         {
             "NodeText": "Homeland Security Department",
             "id": 2,
-            "Subtext": "\u00a71411",
+            "Subtext": "1411",
             "group": "EG1",
             "IN": 3,
             "OUT": 0,
@@ -25,7 +28,7 @@
         {
             "NodeText": "Office of Personnel Management",
             "id": 3,
-            "Subtext": "\u00a7\u00a71334, 10104",
+            "Subtext": "1334, 10104",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -36,7 +39,7 @@
         {
             "NodeText": "Social Security Administration",
             "id": 4,
-            "Subtext": "\u00a71411",
+            "Subtext": "1411",
             "group": "EG1",
             "IN": 0,
             "OUT": 2,
@@ -47,7 +50,7 @@
         {
             "NodeText": "State Protection & Advocacy Systems",
             "id": 5,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "EG1",
             "IN": 1,
             "OUT": 0,
@@ -58,7 +61,7 @@
         {
             "NodeText": "PCORI",
             "id": 6,
-            "Subtext": "\u00a7\u00a76301, 10602",
+            "Subtext": "6301, 10602",
             "group": "NG1",
             "IN": 2,
             "OUT": 2,
@@ -69,7 +72,7 @@
         {
             "NodeText": "PCORI Website",
             "id": 7,
-            "Subtext": "\u00a76301",
+            "Subtext": "6301",
             "group": "NG1",
             "IN": 0,
             "OUT": 0,
@@ -80,7 +83,7 @@
         {
             "NodeText": "PCORI Methodology Committee",
             "id": 8,
-            "Subtext": "\u00a76301",
+            "Subtext": "6301",
             "group": "NG1",
             "IN": 1,
             "OUT": 1,
@@ -91,7 +94,7 @@
         {
             "NodeText": "PCORI Expert Advisory Panels",
             "id": 9,
-            "Subtext": "\u00a76301",
+            "Subtext": "6301",
             "group": "NG1",
             "IN": 1,
             "OUT": 0,
@@ -102,7 +105,7 @@
         {
             "NodeText": "PCORI Trust Fund",
             "id": 10,
-            "Subtext": "\u00a76301",
+            "Subtext": "6301",
             "group": "NG6",
             "IN": 2,
             "OUT": 1,
@@ -113,7 +116,7 @@
         {
             "NodeText": "Justice Department",
             "id": 11,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -124,7 +127,7 @@
         {
             "NodeText": "PCORI Board of Governors",
             "id": 12,
-            "Subtext": "\u00a76301",
+            "Subtext": "6301",
             "group": "NG1",
             "IN": 3,
             "OUT": 1,
@@ -135,7 +138,7 @@
         {
             "NodeText": "Office of Multi-State Qualified Health Plans",
             "id": 13,
-            "Subtext": "\u00a71334, 10104",
+            "Subtext": "1334, 10104",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -146,7 +149,7 @@
         {
             "NodeText": "Interagency Working Group on Health Care Quality",
             "id": 14,
-            "Subtext": "\u00a73012",
+            "Subtext": "3012",
             "group": "NG5",
             "IN": 1,
             "OUT": 4,
@@ -157,7 +160,7 @@
         {
             "NodeText": "Labor Department",
             "id": 15,
-            "Subtext": "\u00a7\u00a71001, 1302, 1311, 1511, 1512, 1513, 6605, 10101, 10106",
+            "Subtext": "1001, 1302, 1311, 1511, 1512, 1513, 6605, 10101, 10106",
             "group": "EG1",
             "IN": 1,
             "OUT": 3,
@@ -168,7 +171,7 @@
         {
             "NodeText": "Rules for Insurance Claims Appeals",
             "id": 16,
-            "Subtext": "\u00a71001, 10101",
+            "Subtext": "1001, 10101",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -179,7 +182,7 @@
         {
             "NodeText": "Hours of Service Determination for Calculating Employer Mandate Penalty",
             "id": 17,
-            "Subtext": "\u00a7\u00a71513, 10106",
+            "Subtext": "1513, 10106",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -190,7 +193,7 @@
         {
             "NodeText": "Black Lung Benefits Act",
             "id": 18,
-            "Subtext": "\u00a71556",
+            "Subtext": "1556",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -201,7 +204,7 @@
         {
             "NodeText": "Other New\r Regulatory\r Programs",
             "id": 19,
-            "Subtext": "\u00a7\u00a71104, 61 0 2, 6 10 3 *** 4 ***",
+            "Subtext": "1104, 61 0 2, 6 10 3 *** 4 ***",
             "group": "NG7",
             "IN": 0,
             "OUT": 0,
@@ -212,7 +215,7 @@
         {
             "NodeText": "IPAB",
             "id": 20,
-            "Subtext": "\u00a73403, 10320",
+            "Subtext": "3403, 10320",
             "group": "NG1",
             "IN": 2,
             "OUT": 2,
@@ -223,7 +226,7 @@
         {
             "NodeText": "Medicare Part A Trust Fund",
             "id": 21,
-            "Subtext": "\u00a73026, 3403, 6301,9015",
+            "Subtext": "3026, 3403, 6301,9015",
             "group": "EG2",
             "IN": 2,
             "OUT": 3,
@@ -234,7 +237,7 @@
         {
             "NodeText": "IPAB Consumer Advisory Council",
             "id": 22,
-            "Subtext": "\u00a7\u00a73403, 10320",
+            "Subtext": "3403, 10320",
             "group": "NG1",
             "IN": 1,
             "OUT": 0,
@@ -245,7 +248,7 @@
         {
             "NodeText": "Medicare Part B Trust Fund",
             "id": 23,
-            "Subtext": "\u00a73026, 6301",
+            "Subtext": "3026, 6301",
             "group": "EG2",
             "IN": 0,
             "OUT": 2,
@@ -256,7 +259,7 @@
         {
             "NodeText": "Medical Device Excise Tax",
             "id": 24,
-            "Subtext": "\u00a7\u00a79009, 10904; HCERA \u00a71405",
+            "Subtext": "9009, 10904; HCERA 1405",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -267,7 +270,7 @@
         {
             "NodeText": "Skilled Nursing Facilities",
             "id": 25,
-            "Subtext": "\u00a7\u00a73006, 10310",
+            "Subtext": "3006, 10310",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -278,7 +281,7 @@
         {
             "NodeText": "Hospitals",
             "id": 26,
-            "Subtext": "\u00a7\u00a71311, 3001, 10335",
+            "Subtext": "1311, 3001, 10335",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -289,7 +292,7 @@
         {
             "NodeText": "Medicare Administrative Contractors",
             "id": 27,
-            "Subtext": "\u00a73311",
+            "Subtext": "3311",
             "group": "P1",
             "IN": 0,
             "OUT": 1,
@@ -300,7 +303,7 @@
         {
             "NodeText": "PPS-Exempt Cancer Hospitals",
             "id": 28,
-            "Subtext": "\u00a73005",
+            "Subtext": "3005",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -311,7 +314,7 @@
         {
             "NodeText": "Long-Term Care Hospitals",
             "id": 29,
-            "Subtext": "\u00a73004",
+            "Subtext": "3004",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -322,7 +325,7 @@
         {
             "NodeText": "Hospice Programs",
             "id": 30,
-            "Subtext": "\u00a73004",
+            "Subtext": "3004",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -333,7 +336,7 @@
         {
             "NodeText": "Inpatient Rehabilitation Facilities",
             "id": 31,
-            "Subtext": "\u00a73004",
+            "Subtext": "3004",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -344,7 +347,7 @@
         {
             "NodeText": "Physicians",
             "id": 32,
-            "Subtext": "\u00a7\u00a71311, 3002, 3003, 10327, 10331",
+            "Subtext": "1311, 3002, 3003, 10327, 10331",
             "group": "P1",
             "IN": 4,
             "OUT": 2,
@@ -355,7 +358,7 @@
         {
             "NodeText": "Annual Fee",
             "id": 33,
-            "Subtext": "\u00a79008; HCERA \u00a71404",
+            "Subtext": "9008; HCERA 1404",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -366,7 +369,7 @@
         {
             "NodeText": "Pharmaceutical Companies",
             "id": 34,
-            "Subtext": "\u00a79008; HCERA \u00a71404",
+            "Subtext": "9008; HCERA 1404",
             "group": "P1",
             "IN": 1,
             "OUT": 1,
@@ -377,7 +380,7 @@
         {
             "NodeText": "Medical Device Manufacturers",
             "id": 35,
-            "Subtext": "\u00a7\u00a79009, 10904; HCERA \u00a71405",
+            "Subtext": "9009, 10904; HCERA 1405",
             "group": "P1",
             "IN": 1,
             "OUT": 1,
@@ -388,7 +391,7 @@
         {
             "NodeText": "Home Health Agencies",
             "id": 36,
-            "Subtext": "\u00a73006",
+            "Subtext": "3006",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -399,7 +402,7 @@
         {
             "NodeText": "Ambulatory Surgical Centers",
             "id": 37,
-            "Subtext": "\u00a7\u00a73006, 10301",
+            "Subtext": "3006, 10301",
             "group": "P1",
             "IN": 2,
             "OUT": 1,
@@ -410,7 +413,7 @@
         {
             "NodeText": "Interagency Pain Research Coordinating Committee",
             "id": 38,
-            "Subtext": "\u00a74305",
+            "Subtext": "4305",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -421,7 +424,7 @@
         {
             "NodeText": "CLASS Program",
             "id": 39,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 2,
             "OUT": 3,
@@ -432,7 +435,7 @@
         {
             "NodeText": "CLASS Independence Advisory Council",
             "id": 40,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -443,7 +446,7 @@
         {
             "NodeText": "Eligibility Assessment System",
             "id": 41,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -454,7 +457,7 @@
         {
             "NodeText": "Personal Care Attendants Workforce Advisory Panel",
             "id": 42,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -465,7 +468,7 @@
         {
             "NodeText": "CLASS Independence Benefit Plan",
             "id": 43,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 2,
             "OUT": 0,
@@ -476,7 +479,7 @@
         {
             "NodeText": "Community Preventive Services Task Force",
             "id": 44,
-            "Subtext": "\u00a74003",
+            "Subtext": "4003",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -487,7 +490,7 @@
         {
             "NodeText": "National Oral Health Public Education Campaign",
             "id": 45,
-            "Subtext": "\u00a74102",
+            "Subtext": "4102",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -498,7 +501,7 @@
         {
             "NodeText": "National Diabetes Report Card Program",
             "id": 46,
-            "Subtext": "\u00a710407",
+            "Subtext": "10407",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -509,7 +512,7 @@
         {
             "NodeText": "National Diabetes Mortality Statistics Education Training Program",
             "id": 47,
-            "Subtext": "\u00a710407",
+            "Subtext": "10407",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -520,7 +523,7 @@
         {
             "NodeText": "CDC",
             "id": 48,
-            "Subtext": "\u00a7\u00a71001, 4003, 4004, 4102, 10407",
+            "Subtext": "1001, 4003, 4004, 4102, 10407",
             "group": "EG1",
             "IN": 2,
             "OUT": 4,
@@ -531,7 +534,7 @@
         {
             "NodeText": "National Public Education Campaign on Prevention & Health Promotion",
             "id": 49,
-            "Subtext": "\u00a74004",
+            "Subtext": "4004",
             "group": "NG5",
             "IN": 2,
             "OUT": 0,
@@ -542,7 +545,7 @@
         {
             "NodeText": "National Partnership on Prevention & Health Promotion",
             "id": 50,
-            "Subtext": "\u00a74004",
+            "Subtext": "4004",
             "group": "NG5",
             "IN": 1,
             "OUT": 2,
@@ -553,7 +556,7 @@
         {
             "NodeText": "NIH",
             "id": 51,
-            "Subtext": "\u00a7\u00a74305, 6301, 10409",
+            "Subtext": "4305, 6301, 10409",
             "group": "EG1",
             "IN": 2,
             "OUT": 1,
@@ -564,7 +567,7 @@
         {
             "NodeText": "Cures Acceleration Network",
             "id": 52,
-            "Subtext": "\u00a710409",
+            "Subtext": "10409",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -575,7 +578,7 @@
         {
             "NodeText": "Cures Acceleration Network Review Board",
             "id": 53,
-            "Subtext": "\u00a710409",
+            "Subtext": "10409",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -586,7 +589,7 @@
         {
             "NodeText": "CLASS Independence Fund Board of Trustees",
             "id": 54,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -597,7 +600,7 @@
         {
             "NodeText": "CLASS Independence Fund",
             "id": 55,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG8",
             "IN": 1,
             "OUT": 1,
@@ -608,7 +611,7 @@
         {
             "NodeText": "Life Independence Accounts",
             "id": 56,
-            "Subtext": "\u00a78002",
+            "Subtext": "8002",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -619,7 +622,7 @@
         {
             "NodeText": "Other New Grant Programs",
             "id": 57,
-            "Subtext": "\u00a7\u00a71002, 10 0 3, 1 31 1, 1 3 22, 661, 2952, 2953 , 3501 -6 , 3508, 4101, 4108, 4201, 4202 , 4304, 5102 , 5206, 5208, 5301 -5303 , 5305, 5306 , 5309 , 5313, 5315, 5405, 5507 -8, 5604, 6703, 10301 *** 59 *** 10323, 10333, 10408 -10, 10413, 10501, 10503",
+            "Subtext": "1002, 10 0 3, 1 31 1, 1 3 22, 661, 2952, 2953 , 3501 -6 , 3508, 4101, 4108, 4201, 4202 , 4304, 5102 , 5206, 5208, 5301 -5303 , 5305, 5306 , 5309 , 5313, 5315, 5405, 5507 -8, 5604, 6703, 10301 *** 59 *** 10323, 10333, 10408 -10, 10413, 10501, 10503",
             "group": "NG7",
             "IN": 0,
             "OUT": 0,
@@ -630,7 +633,7 @@
         {
             "NodeText": "Prevention & Public Health Fund",
             "id": 58,
-            "Subtext": "\u00a74002",
+            "Subtext": "4002",
             "group": "NG8",
             "IN": 2,
             "OUT": 1,
@@ -641,7 +644,7 @@
         {
             "NodeText": "National Prevention, Health Promotion, & Public Health Council",
             "id": 59,
-            "Subtext": "\u00a74001",
+            "Subtext": "4001",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -652,7 +655,7 @@
         {
             "NodeText": "Surgeon General",
             "id": 60,
-            "Subtext": "\u00a74001",
+            "Subtext": "4001",
             "group": "EG1",
             "IN": 2,
             "OUT": 0,
@@ -663,7 +666,7 @@
         {
             "NodeText": "Other New Bureaucracies",
             "id": 61,
-            "Subtext": "\u00a7\u00a71412, 3509, 5101, 10104, 10221, 10334, 10413, 10501 *** 22 ***",
+            "Subtext": "1412, 3509, 5101, 10104, 10221, 10334, 10413, 10501 *** 22 ***",
             "group": "NG7",
             "IN": 0,
             "OUT": 0,
@@ -674,7 +677,7 @@
         {
             "NodeText": "Prevention Website",
             "id": 62,
-            "Subtext": "\u00a74004",
+            "Subtext": "4004",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -685,7 +688,7 @@
         {
             "NodeText": "Advisory Group on Prevention, Health Promotion, and Integrative and Public Health",
             "id": 63,
-            "Subtext": "\u00a74001",
+            "Subtext": "4001",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -696,7 +699,7 @@
         {
             "NodeText": "Public Health Service",
             "id": 64,
-            "Subtext": "\u00a7\u00a73011, 4002, 4302",
+            "Subtext": "3011, 4002, 4302",
             "group": "EG1",
             "IN": 4,
             "OUT": 2,
@@ -707,7 +710,7 @@
         {
             "NodeText": "Website \u201cTransparency in Government\u201d",
             "id": 65,
-            "Subtext": "\u00a71552",
+            "Subtext": "1552",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -718,7 +721,7 @@
         {
             "NodeText": "Public Health Quality & Efficiency Measures Development Program",
             "id": 66,
-            "Subtext": "\u00a7\u00a73013, 10304",
+            "Subtext": "3013, 10304",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -729,7 +732,7 @@
         {
             "NodeText": "National Health Strategy & Priorities Office",
             "id": 67,
-            "Subtext": "\u00a73011",
+            "Subtext": "3011",
             "group": "NG5",
             "IN": 2,
             "OUT": 3,
@@ -740,7 +743,7 @@
         {
             "NodeText": "National Health Disparities Data Collection & Reporting System",
             "id": 68,
-            "Subtext": "\u00a74302",
+            "Subtext": "4302",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -751,7 +754,7 @@
         {
             "NodeText": "Health Care Quality Website",
             "id": 69,
-            "Subtext": "\u00a73011, 3012",
+            "Subtext": "3011, 3012",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -762,7 +765,7 @@
         {
             "NodeText": "Health IT Policy Committee",
             "id": 70,
-            "Subtext": "\u00a71561",
+            "Subtext": "1561",
             "group": "EG1",
             "IN": 0,
             "OUT": 1,
@@ -773,7 +776,7 @@
         {
             "NodeText": "Loan Repayment & Forgiveness Programs",
             "id": 71,
-            "Subtext": "\u00a7\u00a75203, 52 04, 5 20 5, 5 3 1 1 *** 4 ***",
+            "Subtext": "5203, 52 04, 5 20 5, 5 3 1 1 *** 4 ***",
             "group": "NG7",
             "IN": 0,
             "OUT": 0,
@@ -784,7 +787,7 @@
         {
             "NodeText": "Center for Medicare & Medicaid Innovation",
             "id": 72,
-            "Subtext": "\u00a7\u00a73021, 10305, 10306",
+            "Subtext": "3021, 10305, 10306",
             "group": "NG1",
             "IN": 1,
             "OUT": 2,
@@ -795,7 +798,7 @@
         {
             "NodeText": "Community- Based Care Transitions Program",
             "id": 73,
-            "Subtext": "\u00a73026",
+            "Subtext": "3026",
             "group": "NG5",
             "IN": 3,
             "OUT": 1,
@@ -806,7 +809,7 @@
         {
             "NodeText": "CMS",
             "id": 74,
-            "Subtext": "\u00a7\u00a73013, 3021, 3026, 3403, 10305, 10306, 10320",
+            "Subtext": "3013, 3021, 3026, 3403, 10305, 10306, 10320",
             "group": "EG1",
             "IN": 4,
             "OUT": 0,
@@ -817,7 +820,7 @@
         {
             "NodeText": "CMS Actuary",
             "id": 75,
-            "Subtext": "\u00a7\u00a71331, 3403, 10104",
+            "Subtext": "1331, 3403, 10104",
             "group": "EG1",
             "IN": 0,
             "OUT": 1,
@@ -828,7 +831,7 @@
         {
             "NodeText": "Federal Coordinated Health Care Office",
             "id": 76,
-            "Subtext": "\u00a72602",
+            "Subtext": "2602",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -839,7 +842,7 @@
         {
             "NodeText": "Medicaid Health Home Program",
             "id": 77,
-            "Subtext": "\u00a72703",
+            "Subtext": "2703",
             "group": "NG5",
             "IN": 2,
             "OUT": 0,
@@ -850,7 +853,7 @@
         {
             "NodeText": "Medicaid\/ CHIP",
             "id": 78,
-            "Subtext": "Title II; \u00a7\u00a71413, 3011",
+            "Subtext": "Title II; 1413, 3011",
             "group": "EG1",
             "IN": 4,
             "OUT": 0,
@@ -861,7 +864,7 @@
         {
             "NodeText": "FFS Accountable Care Organizations Program",
             "id": 79,
-            "Subtext": "\u00a7\u00a73022, 10307",
+            "Subtext": "3022, 10307",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -872,7 +875,7 @@
         {
             "NodeText": "Non- Hospital Value-Based Purchasing Program",
             "id": 80,
-            "Subtext": "\u00a73006, 10301",
+            "Subtext": "3006, 10301",
             "group": "NG1",
             "IN": 1,
             "OUT": 2,
@@ -883,7 +886,7 @@
         {
             "NodeText": "Demonstra- tion Program",
             "id": 81,
-            "Subtext": "\u00a73001",
+            "Subtext": "3001",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -894,7 +897,7 @@
         {
             "NodeText": "Hospital Value-Based Purchasing Program",
             "id": 82,
-            "Subtext": "\u00a7\u00a73001, 10335",
+            "Subtext": "3001, 10335",
             "group": "NG1",
             "IN": 2,
             "OUT": 2,
@@ -905,7 +908,7 @@
         {
             "NodeText": "Public Data Disclosure System",
             "id": 83,
-            "Subtext": "\u00a73006, 10301",
+            "Subtext": "3006, 10301",
             "group": "NG5",
             "IN": 0,
             "OUT": 0,
@@ -916,7 +919,7 @@
         {
             "NodeText": "Hospital Compare Website",
             "id": 84,
-            "Subtext": "\u00a73001",
+            "Subtext": "3001",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -927,7 +930,7 @@
         {
             "NodeText": "Medicare",
             "id": 85,
-            "Subtext": "Title III, \u00a72602",
+            "Subtext": "Title III, 2602",
             "group": "EG1",
             "IN": 4,
             "OUT": 0,
@@ -938,7 +941,7 @@
         {
             "NodeText": "Physician Quality Reporting System",
             "id": 86,
-            "Subtext": "\u00a7\u00a73002, 10327, 10331",
+            "Subtext": "3002, 10327, 10331",
             "group": "EG1",
             "IN": 1,
             "OUT": 1,
@@ -949,7 +952,7 @@
         {
             "NodeText": "Physician Value-Based Payment Modifier",
             "id": 87,
-            "Subtext": "\u00a7\u00a73007",
+            "Subtext": "3007",
             "group": "NG1",
             "IN": 1,
             "OUT": 2,
@@ -960,7 +963,7 @@
         {
             "NodeText": "Hospital Quality Reporting Program",
             "id": 88,
-            "Subtext": "\u00a73004, 3005",
+            "Subtext": "3004, 3005",
             "group": "EG1",
             "IN": 2,
             "OUT": 2,
@@ -971,7 +974,7 @@
         {
             "NodeText": "Medicare Prescription Drug and MA-PD Complaint System",
             "id": 89,
-            "Subtext": "\u00a73311",
+            "Subtext": "3311",
             "group": "NG5",
             "IN": 3,
             "OUT": 0,
@@ -982,7 +985,7 @@
         {
             "NodeText": "Medicaid Expansion: +16 million",
             "id": 90,
-            "Subtext": "\u00a7\u00a72001-2004 CBO Cost Estimate, 3\/20\/10",
+            "Subtext": "2001-2004 CBO Cost Estimate, 3\/20\/10",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -993,7 +996,7 @@
         {
             "NodeText": "State Medicaid Agencies",
             "id": 91,
-            "Subtext": "\u00a7\u00a72602, 2701, 2703, 3011",
+            "Subtext": "2602, 2701, 2703, 3011",
             "group": "EG3",
             "IN": 2,
             "OUT": 4,
@@ -1015,7 +1018,7 @@
         {
             "NodeText": "State- Specific Adult Health Quality Measures",
             "id": 93,
-            "Subtext": "\u00a72701",
+            "Subtext": "2701",
             "group": "NG5",
             "IN": 2,
             "OUT": 1,
@@ -1026,7 +1029,7 @@
         {
             "NodeText": "Medicare Advantage Cuts: $205.9bn",
             "id": 94,
-            "Subtext": "\u00a7\u00a73201, 10318; HCERA \u00a71102; CBO Cost Estimate, 3\/20\/10",
+            "Subtext": "3201, 10318; HCERA 1102; CBO Cost Estimate, 3\/20\/10",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1037,7 +1040,7 @@
         {
             "NodeText": "Subsidy:\r Medicare Part D\r Drug Program\r \u201cDonut Hole\u201d",
             "id": 95,
-            "Subtext": "\u00a73301; HCERA \u00a71101",
+            "Subtext": "3301; HCERA 1101",
             "group": "NG8",
             "IN": 0,
             "OUT": 1,
@@ -1048,7 +1051,7 @@
         {
             "NodeText": "Medicaid Quality Measurement Program",
             "id": 96,
-            "Subtext": "\u00a72701",
+            "Subtext": "2701",
             "group": "NG5",
             "IN": 3,
             "OUT": 1,
@@ -1070,7 +1073,7 @@
         {
             "NodeText": "Special Interest Provisions",
             "id": 98,
-            "Subtext": "BENEFICIARIES: Mutual of Omaha (NE); Drug Cos; NJ Drug Cos; AARP; Libby Montanans; Physician-Owned Hospitals; Univ. of CT; Medigap Plans; Longshoreman Health Plans; Medicaid: HI, LA, MA, TN, VT; Medicare: CT, FL, MI, MT, ND *** 19 *** \u00a7\u00a71102, 1201, 2006, 3137, 3201, 3301, 6 00 1, 90 01, 9 01 0, 9 014 , 9 02 3, 102 01 , 1 03 17 , 1 032 3, 1 03 24, 10 50 2, 1 06 01 , 10901, 10905; HCERA 1101, 1103, 1106, 1203, 1406",
+            "Subtext": "BENEFICIARIES: Mutual of Omaha (NE); Drug Cos; NJ Drug Cos; AARP; Libby Montanans; Physician-Owned Hospitals; Univ. of CT; Medigap Plans; Longshoreman Health Plans; Medicaid: HI, LA, MA, TN, VT; Medicare: CT, FL, MI, MT, ND *** 19 *** 1102, 1201, 2006, 3137, 3201, 3301, 6 00 1, 90 01, 9 01 0, 9 014 , 9 02 3, 102 01 , 1 03 17 , 1 032 3, 1 03 24, 10 50 2, 1 06 01 , 10901, 10905; HCERA 1101, 1103, 1106, 1203, 1406",
             "group": "SIP",
             "IN": 0,
             "OUT": 0,
@@ -1081,7 +1084,7 @@
         {
             "NodeText": "Other New Demonstration & Pilot Programs",
             "id": 99,
-            "Subtext": "\u00a7\u00a71201, 2704, 2705, 2706, 2707, 3023, 3024, 3113, 3140, 4204, 4206, 5304, 5509, 6112, 6114, 10212, 10221, 10315 , 10323 , 10326 , 10504 , 10607 *** 26 ***",
+            "Subtext": "1201, 2704, 2705, 2706, 2707, 3023, 3024, 3113, 3140, 4204, 4206, 5304, 5509, 6112, 6114, 10212, 10221, 10315 , 10323 , 10326 , 10504 , 10607 *** 26 ***",
             "group": "NG7",
             "IN": 0,
             "OUT": 0,
@@ -1092,7 +1095,7 @@
         {
             "NodeText": "Essential Health Benefits Package",
             "id": 100,
-            "Subtext": "\u00a7\u00a71001,1201, 1301, 1302 Packages: Bronze | Sliver | Gold | Platinum",
+            "Subtext": "1001,1201, 1301, 1302 Packages: Bronze | Sliver | Gold | Platinum",
             "group": "NG3",
             "IN": 2,
             "OUT": 2,
@@ -1103,7 +1106,7 @@
         {
             "NodeText": "Insurance Mandates",
             "id": 101,
-            "Subtext": "\u00a7\u00a71001, 1101, 1201, 1251, 10101, 10103; HCERA \u00a72301 *** 17 ***",
+            "Subtext": "1001, 1101, 1201, 1251, 10101, 10103; HCERA 2301 *** 17 ***",
             "group": "NG2",
             "IN": 0,
             "OUT": 1,
@@ -1114,7 +1117,7 @@
         {
             "NodeText": "Health Insurance Companies",
             "id": 102,
-            "Subtext": "Mandates, Regulations, Required Benefits, & Taxes \u00a7\u00a71001, 1201, 1252, 1301, 1334, 1341, 3311, 9001, 9010, 10101, 10104, 10901, 10905; HCERA \u00a7\u00a71401, 1406",
+            "Subtext": "Mandates, Regulations, Required Benefits, & Taxes 1001, 1201, 1252, 1301, 1334, 1341, 3311, 9001, 9010, 10101, 10104, 10901, 10905; HCERA 1401, 1406",
             "group": "P1",
             "IN": 10,
             "OUT": 7,
@@ -1125,7 +1128,7 @@
         {
             "NodeText": "Congress",
             "id": 103,
-            "Subtext": "\u00a7\u00a71312, 1411, 3311, 5605, 8002",
+            "Subtext": "1312, 1411, 3311, 5605, 8002",
             "group": "EG1",
             "IN": 10,
             "OUT": 1,
@@ -1136,7 +1139,7 @@
         {
             "NodeText": "Comptroller General",
             "id": 104,
-            "Subtext": "\u00a7\u00a71313, 1322",
+            "Subtext": "1313, 1322",
             "group": "EG1",
             "IN": 0,
             "OUT": 2,
@@ -1147,7 +1150,7 @@
         {
             "NodeText": "GAO",
             "id": 105,
-            "Subtext": "\u00a7\u00a71401, 3001, 3403, 6301,\r 10105, 10320",
+            "Subtext": "1401, 3001, 3403, 6301,\r 10105, 10320",
             "group": "EG1",
             "IN": 0,
             "OUT": 6,
@@ -1158,7 +1161,7 @@
         {
             "NodeText": "MedPAC",
             "id": 106,
-            "Subtext": "\u00a72602",
+            "Subtext": "2602",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -1169,7 +1172,7 @@
         {
             "NodeText": "Congress\r Members\r & Personal Staff\r Mandate:\r Only Exchange\r Coverage",
             "id": 107,
-            "Subtext": "\u00a71312",
+            "Subtext": "1312",
             "group": "NG2",
             "IN": 1,
             "OUT": 1,
@@ -1180,7 +1183,7 @@
         {
             "NodeText": "Vital Statistics Agencies",
             "id": 108,
-            "Subtext": "\u00a710407",
+            "Subtext": "10407",
             "group": "EG3",
             "IN": 1,
             "OUT": 0,
@@ -1191,7 +1194,7 @@
         {
             "NodeText": "State Surveyors",
             "id": 109,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "EG3",
             "IN": 1,
             "OUT": 0,
@@ -1202,7 +1205,7 @@
         {
             "NodeText": "States",
             "id": 110,
-            "Subtext": "\u00a7\u00a71311,1331,\r 1333,1341, 10104,\r 10407",
+            "Subtext": "1311,1331,\r 1333,1341, 10104,\r 10407",
             "group": "EG3",
             "IN": 6,
             "OUT": 4,
@@ -1213,7 +1216,7 @@
         {
             "NodeText": "NAIC",
             "id": 111,
-            "Subtext": "\u00a7\u00a71333, 1341,\r 10104",
+            "Subtext": "1333, 1341,\r 10104",
             "group": "EG3",
             "IN": 0,
             "OUT": 0,
@@ -1224,7 +1227,7 @@
         {
             "NodeText": "Health Care Choice Compacts",
             "id": 112,
-            "Subtext": "\u00a7\u00a71333, 10104",
+            "Subtext": "1333, 10104",
             "group": "NG3",
             "IN": 1,
             "OUT": 1,
@@ -1235,7 +1238,7 @@
         {
             "NodeText": "Reinsurance Program",
             "id": 113,
-            "Subtext": "\u00a7\u00a71341, 10104",
+            "Subtext": "1341, 10104",
             "group": "NG3",
             "IN": 2,
             "OUT": 1,
@@ -1246,7 +1249,7 @@
         {
             "NodeText": "Optional\r Basic Health\r Program",
             "id": 114,
-            "Subtext": "\u00a7\u00a71331, 10104",
+            "Subtext": "1331, 10104",
             "group": "NG3",
             "IN": 5,
             "OUT": 1,
@@ -1257,7 +1260,7 @@
         {
             "NodeText": "Government Health Benefit Exchanges",
             "id": 115,
-            "Subtext": "\u00a7\u00a71201, 1301,1302, 1311, 1312, 1313,\r 1321, 1323, 1334, 1411, 1413, 10104;\r HCERA \u00a71204",
+            "Subtext": "1201, 1301,1302, 1311, 1312, 1313,\r 1321, 1323, 1334, 1411, 1413, 10104;\r HCERA 1204",
             "group": "NG3",
             "IN": 10,
             "OUT": 7,
@@ -1268,7 +1271,7 @@
         {
             "NodeText": "Health Insurance CO-OP",
             "id": 116,
-            "Subtext": "\u00a7\u00a71322, 10104",
+            "Subtext": "1322, 10104",
             "group": "NG3",
             "IN": 3,
             "OUT": 0,
@@ -1279,7 +1282,7 @@
         {
             "NodeText": "CO-OP Advisory Board",
             "id": 117,
-            "Subtext": "\u00a71322, 10104",
+            "Subtext": "1322, 10104",
             "group": "NG3",
             "IN": 0,
             "OUT": 0,
@@ -1290,7 +1293,7 @@
         {
             "NodeText": "Private Purchasing Council",
             "id": 118,
-            "Subtext": "\u00a71322",
+            "Subtext": "1322",
             "group": "NG3",
             "IN": 0,
             "OUT": 0,
@@ -1301,7 +1304,7 @@
         {
             "NodeText": "Internet Portal",
             "id": 119,
-            "Subtext": "\u00a71311",
+            "Subtext": "1311",
             "group": "NG3",
             "IN": 0,
             "OUT": 0,
@@ -1312,7 +1315,7 @@
         {
             "NodeText": "Small Business Health Options Program",
             "id": 120,
-            "Subtext": "\u00a71311",
+            "Subtext": "1311",
             "group": "NG3",
             "IN": 0,
             "OUT": 0,
@@ -1323,7 +1326,7 @@
         {
             "NodeText": "Data Collection",
             "id": 121,
-            "Subtext": "\u00a71311",
+            "Subtext": "1311",
             "group": "NG3",
             "IN": 0,
             "OUT": 0,
@@ -1334,7 +1337,7 @@
         {
             "NodeText": "Qualified\r Health\r Plans",
             "id": 122,
-            "Subtext": "\u00a7\u00a71301, 1302,\r 1311, 10104",
+            "Subtext": "1301, 1302,\r 1311, 10104",
             "group": "NG3",
             "IN": 2,
             "OUT": 3,
@@ -1345,7 +1348,7 @@
         {
             "NodeText": "Privacy Study",
             "id": 123,
-            "Subtext": "\u00a71411",
+            "Subtext": "1411",
             "group": "NG3",
             "IN": 1,
             "OUT": 1,
@@ -1356,7 +1359,7 @@
         {
             "NodeText": "Eligibility Determinations",
             "id": 124,
-            "Subtext": "\u00a71411",
+            "Subtext": "1411",
             "group": "NG3",
             "IN": 1,
             "OUT": 1,
@@ -1367,7 +1370,7 @@
         {
             "NodeText": "Risk\r Corridors",
             "id": 125,
-            "Subtext": "\u00a71342",
+            "Subtext": "1342",
             "group": "NG3",
             "IN": 1,
             "OUT": 2,
@@ -1378,7 +1381,7 @@
         {
             "NodeText": "US\r Territories",
             "id": 126,
-            "Subtext": "\u00a71323; HCERA \u00a71204",
+            "Subtext": "1323; HCERA 1204",
             "group": "EG3",
             "IN": 1,
             "OUT": 1,
@@ -1389,7 +1392,7 @@
         {
             "NodeText": "Value-Based Insurance Design & Coverage of Preventive Health Services",
             "id": 127,
-            "Subtext": "\u00a71001",
+            "Subtext": "1001",
             "group": "NG1",
             "IN": 1,
             "OUT": 1,
@@ -1400,7 +1403,7 @@
         {
             "NodeText": "Commission on Key Indicators",
             "id": 128,
-            "Subtext": "\u00a75605",
+            "Subtext": "5605",
             "group": "NG5",
             "IN": 1,
             "OUT": 2,
@@ -1411,7 +1414,7 @@
         {
             "NodeText": "Key National Indicator System Implementation Institute",
             "id": 129,
-            "Subtext": "\u00a75605",
+            "Subtext": "5605",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -1422,7 +1425,7 @@
         {
             "NodeText": "MEWA Health Plans",
             "id": 130,
-            "Subtext": "\u00a7\u00a71301, 6605",
+            "Subtext": "1301, 6605",
             "group": "P1",
             "IN": 0,
             "OUT": 1,
@@ -1433,7 +1436,7 @@
         {
             "NodeText": "W2\r Health\r Insurance\r Disclosure",
             "id": 131,
-            "Subtext": "\u00a79002",
+            "Subtext": "9002",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1444,7 +1447,7 @@
         {
             "NodeText": "Self-Insured Health Plans",
             "id": 132,
-            "Subtext": "\u00a71301",
+            "Subtext": "1301",
             "group": "P2",
             "IN": 0,
             "OUT": 0,
@@ -1455,7 +1458,7 @@
         {
             "NodeText": "Small Employers",
             "id": 133,
-            "Subtext": "\u00a7\u00a71304, 1311, 1421, 1512,\r 10105",
+            "Subtext": "1304, 1311, 1421, 1512,\r 10105",
             "group": "P1",
             "IN": 0,
             "OUT": 1,
@@ -1466,7 +1469,7 @@
         {
             "NodeText": "Small\r Business\r Health Insurance\r Tax Credit",
             "id": 134,
-            "Subtext": "\u00a7\u00a71421,\r 10105",
+            "Subtext": "1421,\r 10105",
             "group": "NG8",
             "IN": 1,
             "OUT": 1,
@@ -1477,7 +1480,7 @@
         {
             "NodeText": "10%\r Tax On\r Indoor Tanning\r Services:",
             "id": 135,
-            "Subtext": "\u00a7\u00a79017,\r 10907",
+            "Subtext": "9017,\r 10907",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1488,7 +1491,7 @@
         {
             "NodeText": "Only\r Medical Expenses\r Above 10% of Income\r (AGI) are Tax\r Deductible",
             "id": 136,
-            "Subtext": "\u00a79013",
+            "Subtext": "9013",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1499,7 +1502,7 @@
         {
             "NodeText": "Employer Mandate",
             "id": 137,
-            "Subtext": "Provide Health Insurance \u00a7\u00a71513, 10106; HCERA \u00a71003",
+            "Subtext": "Provide Health Insurance 1513, 10106; HCERA 1003",
             "group": "NG2",
             "IN": 1,
             "OUT": 1,
@@ -1510,7 +1513,7 @@
         {
             "NodeText": "Employers",
             "id": 138,
-            "Subtext": "Mandates, Regulations, & Taxes \u00a7\u00a71511, 1512, 1513, 9001, 9002, 10106, 10901; HCERA \u00a7\u00a71003, 1401",
+            "Subtext": "Mandates, Regulations, & Taxes 1511, 1512, 1513, 9001, 9002, 10106, 10901; HCERA 1003, 1401",
             "group": "P1",
             "IN": 4,
             "OUT": 3,
@@ -1521,7 +1524,7 @@
         {
             "NodeText": "Large Business Employees",
             "id": 139,
-            "Subtext": "\u00a71511, 1512",
+            "Subtext": "1511, 1512",
             "group": "P1",
             "IN": 2,
             "OUT": 0,
@@ -1532,7 +1535,7 @@
         {
             "NodeText": "Small Business Employees",
             "id": 140,
-            "Subtext": "\u00a71512",
+            "Subtext": "1512",
             "group": "P1",
             "IN": 1,
             "OUT": 0,
@@ -1543,7 +1546,7 @@
         {
             "NodeText": "Mandatory\r Worker Auto-\r Enrollment",
             "id": 141,
-            "Subtext": "\u00a71511",
+            "Subtext": "1511",
             "group": "NG2",
             "IN": 1,
             "OUT": 1,
@@ -1554,7 +1557,7 @@
         {
             "NodeText": "Large Employers",
             "id": 142,
-            "Subtext": "\u00a7\u00a71304, 1511, 1512, 1513,\r 1514, 10106",
+            "Subtext": "1304, 1511, 1512, 1513,\r 1514, 10106",
             "group": "P1",
             "IN": 3,
             "OUT": 4,
@@ -1565,7 +1568,7 @@
         {
             "NodeText": "Individual\r Mandate:\r Buy Health\r Insurance",
             "id": 143,
-            "Subtext": "\u00a7\u00a71501, 10106;\r HCERA \u00a7\u00a71002, 1004",
+            "Subtext": "1501, 10106;\r HCERA 1002, 1004",
             "group": "NG2",
             "IN": 1,
             "OUT": 1,
@@ -1576,7 +1579,7 @@
         {
             "NodeText": "Individuals",
             "id": 144,
-            "Subtext": "Mandates, Regulations, & Taxes \u00a7\u00a71311, 1411, 1501, 9003-9005, 9013, 9015, 9017, 10106, 10902, 10906, 10907; HCERA \u00a7\u00a71002, 1004, 1402, 1403",
+            "Subtext": "Mandates, Regulations, & Taxes 1311, 1411, 1501, 9003-9005, 9013, 9015, 9017, 10106, 10902, 10906, 10907; HCERA 1002, 1004, 1402, 1403",
             "group": "P1",
             "IN": 6,
             "OUT": 3,
@@ -1587,7 +1590,7 @@
         {
             "NodeText": "Flexible Spending Arrangement",
             "id": 145,
-            "Subtext": "\u00a79005, 10902; HCERA \u00a71403",
+            "Subtext": "9005, 10902; HCERA 1403",
             "group": "P1",
             "IN": 1,
             "OUT": 0,
@@ -1609,7 +1612,7 @@
         {
             "NodeText": "FSA\r Contribution\r Limit: $2,500",
             "id": 147,
-            "Subtext": "\u00a7\u00a79005, 10902;\r HCERA\u00a71403",
+            "Subtext": "9005, 10902;\r HCERA1403",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1620,7 +1623,7 @@
         {
             "NodeText": "AHRQ",
             "id": 148,
-            "Subtext": "\u00a73012, 3013, 6031",
+            "Subtext": "3012, 3013, 6031",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -1631,7 +1634,7 @@
         {
             "NodeText": "US Preventive Services Task Force",
             "id": 149,
-            "Subtext": "\u00a71001",
+            "Subtext": "1001",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -1642,7 +1645,7 @@
         {
             "NodeText": "HHS Inspector General",
             "id": 150,
-            "Subtext": "\u00a71313, 8002,\r 10104",
+            "Subtext": "1313, 8002,\r 10104",
             "group": "EG1",
             "IN": 1,
             "OUT": 2,
@@ -1653,7 +1656,7 @@
         {
             "NodeText": "Advisory Board on Elder Abuse, Neglect, & Exploitation",
             "id": 151,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "NG5",
             "IN": 2,
             "OUT": 1,
@@ -1664,7 +1667,7 @@
         {
             "NodeText": "Multi- Disciplinary Panels on Improving Long- Term Care",
             "id": 152,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -1675,7 +1678,7 @@
         {
             "NodeText": "National Training Institute for Federal and State Surveyors",
             "id": 153,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "NG5",
             "IN": 0,
             "OUT": 1,
@@ -1686,7 +1689,7 @@
         {
             "NodeText": "Elder Abuse, Neglect, & Exploitation Forensic Centers",
             "id": 154,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "NG5",
             "IN": 1,
             "OUT": 0,
@@ -1697,7 +1700,7 @@
         {
             "NodeText": "Elder Justice Coordinating Council",
             "id": 155,
-            "Subtext": "\u00a76703",
+            "Subtext": "6703",
             "group": "NG5",
             "IN": 1,
             "OUT": 1,
@@ -1708,7 +1711,7 @@
         {
             "NodeText": "National Academy of Sciences",
             "id": 156,
-            "Subtext": "\u00a75605",
+            "Subtext": "5605",
             "group": "P1",
             "IN": 1,
             "OUT": 1,
@@ -1719,7 +1722,7 @@
         {
             "NodeText": "IRS",
             "id": 157,
-            "Subtext": "\u00a7\u00a71401, 1402, 1411, 1412 1414,\r 1421, 1501, 9004, 9005,\r 10105, 10901; HCERA\r \u00a7\u00a71401, 1402",
+            "Subtext": "1401, 1402, 1411, 1412 1414,\r 1421, 1501, 9004, 9005,\r 10105, 10901; HCERA\r 1401, 1402",
             "group": "EG2",
             "IN": 9,
             "OUT": 8,
@@ -1730,7 +1733,7 @@
         {
             "NodeText": "Treasury Department",
             "id": 158,
-            "Subtext": "\u00a7\u00a71311, 1331, 4002,\r 8002, 10104",
+            "Subtext": "1311, 1331, 4002,\r 8002, 10104",
             "group": "EG1",
             "IN": 0,
             "OUT": 5,
@@ -1741,7 +1744,7 @@
         {
             "NodeText": "Office of Tax Analysis",
             "id": 159,
-            "Subtext": "\u00a7\u00a71331, 10104",
+            "Subtext": "1331, 10104",
             "group": "EG1",
             "IN": 0,
             "OUT": 0,
@@ -1752,7 +1755,7 @@
         {
             "NodeText": "Small Group Market",
             "id": 160,
-            "Subtext": "\u00a71301, 1304, 1342",
+            "Subtext": "1301, 1304, 1342",
             "group": "P1",
             "IN": 2,
             "OUT": 0,
@@ -1763,7 +1766,7 @@
         {
             "NodeText": "Individual Market",
             "id": 161,
-            "Subtext": "\u00a71201, 1301, 1304, 1342",
+            "Subtext": "1201, 1301, 1304, 1342",
             "group": "P1",
             "IN": 2,
             "OUT": 0,
@@ -1774,7 +1777,7 @@
         {
             "NodeText": "Large Group Market",
             "id": 162,
-            "Subtext": "\u00a7\u00a71201, 1301, 1511",
+            "Subtext": "1201, 1301, 1511",
             "group": "P1",
             "IN": 2,
             "OUT": 0,
@@ -1785,7 +1788,7 @@
         {
             "NodeText": "Medicare Part C & Part D Insurers",
             "id": 163,
-            "Subtext": "\u00a73311",
+            "Subtext": "3311",
             "group": "P1",
             "IN": 0,
             "OUT": 1,
@@ -1796,7 +1799,7 @@
         {
             "NodeText": "Health Insurance Policy Holder",
             "id": 164,
-            "Subtext": "\u00a7\u00a71001, 10101",
+            "Subtext": "1001, 10101",
             "group": "P1",
             "IN": 1,
             "OUT": 0,
@@ -1807,7 +1810,7 @@
         {
             "NodeText": "Health Savings Accounts",
             "id": 165,
-            "Subtext": "\u00a7\u00a79003, 9004",
+            "Subtext": "9003, 9004",
             "group": "P1",
             "IN": 1,
             "OUT": 0,
@@ -1818,7 +1821,7 @@
         {
             "NodeText": "\u201cCadillac\r Plans\u201d Tax",
             "id": 166,
-            "Subtext": "\u00a7\u00a79001, 10901;\r HCERA \u00a71401",
+            "Subtext": "9001, 10901;\r HCERA 1401",
             "group": "NG4",
             "IN": 0,
             "OUT": 2,
@@ -1829,7 +1832,7 @@
         {
             "NodeText": "\u201cExcessive\r Profits\u201d",
             "id": 167,
-            "Subtext": "\u00a7\u00a71001, 10101",
+            "Subtext": "1001, 10101",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1840,7 +1843,7 @@
         {
             "NodeText": "Misuse of\r HSA Funds",
             "id": 168,
-            "Subtext": "\u00a79004",
+            "Subtext": "9004",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1851,7 +1854,7 @@
         {
             "NodeText": "3.8%\r Investment\r Income Tax",
             "id": 169,
-            "Subtext": "HCERA \u00a71402",
+            "Subtext": "HCERA 1402",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1862,7 +1865,7 @@
         {
             "NodeText": "HSA\r Use Restriction",
             "id": 170,
-            "Subtext": "\u00a79003",
+            "Subtext": "9003",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1873,7 +1876,7 @@
         {
             "NodeText": "Medicare\r Payroll Tax\r Increase: 0.9%",
             "id": 171,
-            "Subtext": "\u00a7\u00a79015, 10906;\r HCERA \u00a71402",
+            "Subtext": "9015, 10906;\r HCERA 1402",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1884,7 +1887,7 @@
         {
             "NodeText": "Subsidies:\r Out-of-Pocket\r Expenses",
             "id": 172,
-            "Subtext": "\u00a7\u00a71402, 1412;\r HCERA\r \u00a71001",
+            "Subtext": "1402, 1412;\r HCERA\r 1001",
             "group": "NG8",
             "IN": 1,
             "OUT": 1,
@@ -1895,7 +1898,7 @@
         {
             "NodeText": "Premium\r Tax Credit\r Subsidies",
             "id": 173,
-            "Subtext": "\u00a7\u00a71401, 1412, 10105;\r HCERA \u00a7\u00a71001,\r 1004",
+            "Subtext": "1401, 1412, 10105;\r HCERA 1001,\r 1004",
             "group": "NG8",
             "IN": 1,
             "OUT": 1,
@@ -1906,7 +1909,7 @@
         {
             "NodeText": "Medicare Beneficiaries",
             "id": 174,
-            "Subtext": "\u00a73311",
+            "Subtext": "3311",
             "group": "P1",
             "IN": 0,
             "OUT": 0,
@@ -1917,7 +1920,7 @@
         {
             "NodeText": "Annual Fee 1",
             "id": 175,
-            "Subtext": "\u00a7\u00a79010, 10905; HCERA \u00a71406",
+            "Subtext": "9010, 10905; HCERA 1406",
             "group": "NG4",
             "IN": 0,
             "OUT": 1,
@@ -1928,7 +1931,7 @@
         {
             "NodeText": "Health Industry",
             "id": 176,
-            "Subtext": "Mandates, Regulations, Taxes, & Payment Cuts \u00a7\u00a71311, 3001-3006, 3311, 9008, 9009, 10327, 10331, 10335, 10904; HCERA \u00a7\u00a71404, 1405",
+            "Subtext": "Mandates, Regulations, Taxes, & Payment Cuts 1311, 3001-3006, 3311, 9008, 9009, 10327, 10331, 10335, 10904; HCERA 1404, 1405",
             "group": "P1",
             "IN": 1,
             "OUT": 0,
@@ -2002,7 +2005,7 @@
             "Combine": "(NR6)--158<-->1"
         },
         {
-            "EdgeText": "\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR5",
             "StartNode": "President",
             "source": 1,
@@ -2065,7 +2068,7 @@
             "Combine": "(NR6)--12<-->6"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR5",
             "StartNode": "PCORI",
             "source": 6,
@@ -2074,7 +2077,7 @@
             "Combine": "(NR5)--7<-->6"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR5",
             "StartNode": "PCORI",
             "source": 6,
@@ -2083,7 +2086,7 @@
             "Combine": "(NR5)--9<-->6"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR5",
             "StartNode": "PCORI",
             "source": 6,
@@ -2092,7 +2095,7 @@
             "Combine": "(NR5)--51<-->6"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR5",
             "StartNode": "PCORI",
             "source": 6,
@@ -2101,7 +2104,7 @@
             "Combine": "(NR5)--148<-->6"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR5",
             "StartNode": "Justice Department",
             "source": 11,
@@ -2137,7 +2140,7 @@
             "Combine": "(NR6)--16<-->15"
         },
         {
-            "EdgeText": "\u00a71302",
+            "EdgeText": "1302",
             "Type": "NR5",
             "StartNode": "Labor Department",
             "source": 15,
@@ -2155,7 +2158,7 @@
             "Combine": "(NR6)--22<-->20"
         },
         {
-            "EdgeText": "\u00a7\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR5",
             "StartNode": "IPAB",
             "source": 20,
@@ -2164,7 +2167,7 @@
             "Combine": "(NR5)--22<-->20"
         },
         {
-            "EdgeText": "\u00a73403",
+            "EdgeText": "3403",
             "Type": "NR5",
             "StartNode": "IPAB",
             "source": 20,
@@ -2335,7 +2338,7 @@
             "Combine": "(NR6)--56<-->39"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR5",
             "StartNode": "CLASS Program",
             "source": 39,
@@ -2344,7 +2347,7 @@
             "Combine": "(NR5)--42<-->39"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR5",
             "StartNode": "CLASS Independence Advisory Council",
             "source": 40,
@@ -2398,7 +2401,7 @@
             "Combine": "(NR6)--48<-->44"
         },
         {
-            "EdgeText": "\u00a71001",
+            "EdgeText": "1001",
             "Type": "NR5",
             "StartNode": "CDC",
             "source": 48,
@@ -2425,7 +2428,7 @@
             "Combine": "(NR6)--50<-->49"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR5",
             "StartNode": "National Public Education Campaign on Prevention & Health Promotion",
             "source": 49,
@@ -2515,7 +2518,7 @@
             "Combine": "(NR6)--64<-->63"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR5",
             "StartNode": "National Prevention, Health Promotion, & Public Health Council",
             "source": 59,
@@ -2542,7 +2545,7 @@
             "Combine": "(NR6)--97<-->65"
         },
         {
-            "EdgeText": "\u00a74302",
+            "EdgeText": "4302",
             "Type": "NR5",
             "StartNode": "Website \u201cTransparency in Government\u201d",
             "source": 65,
@@ -2551,7 +2554,7 @@
             "Combine": "(NR5)--68<-->65"
         },
         {
-            "EdgeText": "\u00a73013",
+            "EdgeText": "3013",
             "Type": "NR5",
             "StartNode": "Public Health Quality & Efficiency Measures Development Program",
             "source": 66,
@@ -2560,7 +2563,7 @@
             "Combine": "(NR5)--148<-->66"
         },
         {
-            "EdgeText": "\u00a73013",
+            "EdgeText": "3013",
             "Type": "NR5",
             "StartNode": "Public Health Quality & Efficiency Measures Development Program",
             "source": 66,
@@ -2569,7 +2572,7 @@
             "Combine": "(NR5)--74<-->66"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR5",
             "StartNode": "National Health Strategy & Priorities Office",
             "source": 67,
@@ -2578,7 +2581,7 @@
             "Combine": "(NR5)--69<-->67"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR5",
             "StartNode": "National Health Strategy & Priorities Office",
             "source": 67,
@@ -2596,7 +2599,7 @@
             "Combine": "(NR6)--97<-->69"
         },
         {
-            "EdgeText": "\u00a73012",
+            "EdgeText": "3012",
             "Type": "NR5",
             "StartNode": "Health Care Quality Website",
             "source": 69,
@@ -2668,7 +2671,7 @@
             "Combine": "(NR6)--74<-->73"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR5",
             "StartNode": "Federal Coordinated Health Care Office",
             "source": 76,
@@ -2677,7 +2680,7 @@
             "Combine": "(NR5)--78<-->76"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR5",
             "StartNode": "Federal Coordinated Health Care Office",
             "source": 76,
@@ -2686,7 +2689,7 @@
             "Combine": "(NR5)--85<-->76"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR5",
             "StartNode": "Federal Coordinated Health Care Office",
             "source": 76,
@@ -2695,7 +2698,7 @@
             "Combine": "(NR5)--91<-->76"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR5",
             "StartNode": "Federal Coordinated Health Care Office",
             "source": 76,
@@ -2812,7 +2815,7 @@
             "Combine": "(NR6)--85<-->82"
         },
         {
-            "EdgeText": "\u00a73006",
+            "EdgeText": "3006",
             "Type": "NR5",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
@@ -2830,7 +2833,7 @@
             "Combine": "(NR6)--82<-->81"
         },
         {
-            "EdgeText": "\u00a73001",
+            "EdgeText": "3001",
             "Type": "NR5",
             "StartNode": "Hospital Value-Based Purchasing Program",
             "source": 82,
@@ -2839,7 +2842,7 @@
             "Combine": "(NR5)--84<-->82"
         },
         {
-            "EdgeText": "\u00a73311",
+            "EdgeText": "3311",
             "Type": "NR5",
             "StartNode": "Medicare Prescription Drug and MA-PD Complaint System",
             "source": 89,
@@ -2965,7 +2968,7 @@
             "Combine": "(NR6)--111<-->110"
         },
         {
-            "EdgeText": "\u00a7\u00a71341, 10104",
+            "EdgeText": "1341, 10104",
             "Type": "NR5",
             "StartNode": "NAIC",
             "source": 111,
@@ -2974,7 +2977,7 @@
             "Combine": "(NR5)--113<-->111"
         },
         {
-            "EdgeText": "\u00a7\u00a71333, 10104",
+            "EdgeText": "1333, 10104",
             "Type": "NR5",
             "StartNode": "NAIC",
             "source": 111,
@@ -3046,7 +3049,7 @@
             "Combine": "(NR6)--118<-->116"
         },
         {
-            "EdgeText": "\u00a71311",
+            "EdgeText": "1311",
             "Type": "NR5",
             "StartNode": "Small Business Health Options Program",
             "source": 120,
@@ -3055,7 +3058,7 @@
             "Combine": "(NR5)--133<-->120"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR5",
             "StartNode": "Privacy Study",
             "source": 123,
@@ -3064,7 +3067,7 @@
             "Combine": "(NR5)--124<-->123"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR5",
             "StartNode": "Commission on Key Indicators",
             "source": 128,
@@ -3073,7 +3076,7 @@
             "Combine": "(NR5)--156<-->128"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR5",
             "StartNode": "Commission on Key Indicators",
             "source": 128,
@@ -3091,7 +3094,7 @@
             "Combine": "(NR6)--156<-->129"
         },
         {
-            "EdgeText": "\u00a71001",
+            "EdgeText": "1001",
             "Type": "NR5",
             "StartNode": "Value-Based Insurance Design & Coverage of Preventive Health Services",
             "source": 127,
@@ -3217,7 +3220,7 @@
             "Combine": "(NR6)--164<-->144"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR5",
             "StartNode": "Individuals",
             "source": 144,
@@ -3271,7 +3274,7 @@
             "Combine": "(NR6)--155<-->151"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR5",
             "StartNode": "Elder Justice Coordinating Council",
             "source": 155,
@@ -3298,868 +3301,868 @@
             "Combine": "(NR6)--159<-->157"
         },
         {
-            "EdgeText": "\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR2",
             "StartNode": "President",
             "source": 1,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--1-->103\u00a73403, 10320"
+            "Combine": "(NR2)--1-->1033403, 10320"
         },
         {
-            "EdgeText": "\u00a74001",
+            "EdgeText": "4001",
             "Type": "NR1",
             "StartNode": "President",
             "source": 1,
             "EndNode": "National Prevention, Health Promotion, & Public Health Council",
             "target": 59,
-            "Combine": "(NR1)--1-->59\u00a74001"
+            "Combine": "(NR1)--1-->594001"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "President",
             "source": 1,
             "EndNode": "CLASS Independence Fund Board of Trustees",
             "target": 54,
-            "Combine": "(NR1)--1-->54\u00a78002"
+            "Combine": "(NR1)--1-->548002"
         },
         {
-            "EdgeText": "\u00a74001",
+            "EdgeText": "4001",
             "Type": "NR1",
             "StartNode": "President",
             "source": 1,
             "EndNode": "Advisory Group on Prevention, Health Promotion, and Integrative and Public Health",
             "target": 63,
-            "Combine": "(NR1)--1-->63\u00a74001"
+            "Combine": "(NR1)--1-->634001"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "Social Security Administration",
             "source": 4,
             "EndNode": "State Protection & Advocacy Systems",
             "target": 5,
-            "Combine": "(NR1)--4-->5\u00a78002"
+            "Combine": "(NR1)--4-->58002"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR2",
             "StartNode": "Social Security Administration",
             "source": 4,
             "EndNode": "Homeland Security Department",
             "target": 2,
-            "Combine": "(NR2)--4-->2\u00a71411"
+            "Combine": "(NR2)--4-->21411"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR2",
             "StartNode": "PCORI",
             "source": 6,
             "EndNode": "PCORI Board of Governors",
             "target": 12,
-            "Combine": "(NR2)--6-->12\u00a76301"
+            "Combine": "(NR2)--6-->126301"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR1",
             "StartNode": "PCORI",
             "source": 6,
             "EndNode": "PCORI Expert Advisory Panels",
             "target": 9,
-            "Combine": "(NR1)--6-->9\u00a76301"
+            "Combine": "(NR1)--6-->96301"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR2",
             "StartNode": "PCORI Methodology Committee",
             "source": 8,
             "EndNode": "PCORI",
             "target": 6,
-            "Combine": "(NR2)--8-->6\u00a76301"
+            "Combine": "(NR2)--8-->66301"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR4",
             "StartNode": "PCORI Trust Fund",
             "source": 10,
             "EndNode": "PCORI Board of Governors",
             "target": 12,
-            "Combine": "(NR4)--10-->12\u00a76301"
+            "Combine": "(NR4)--10-->126301"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR4",
             "StartNode": "PCORI Board of Governors",
             "source": 12,
             "EndNode": "PCORI",
             "target": 6,
-            "Combine": "(NR4)--12-->6\u00a76301"
+            "Combine": "(NR4)--12-->66301"
         },
         {
-            "EdgeText": "\u00a71334, 10104",
+            "EdgeText": "1334, 10104",
             "Type": "NR1",
             "StartNode": "Office of Multi-State Qualified Health Plans",
             "source": 13,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--13-->102\u00a71334, 10104"
+            "Combine": "(NR1)--13-->1021334, 10104"
         },
         {
-            "EdgeText": "\u00a73012",
+            "EdgeText": "3012",
             "Type": "NR1",
             "StartNode": "Interagency Working Group on Health Care Quality",
             "source": 14,
             "EndNode": "President",
             "target": 1,
-            "Combine": "(NR1)--14-->1\u00a73012"
+            "Combine": "(NR1)--14-->13012"
         },
         {
-            "EdgeText": "\u00a73012",
+            "EdgeText": "3012",
             "Type": "NR2",
             "StartNode": "Interagency Working Group on Health Care Quality",
             "source": 14,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--14-->103\u00a73012"
+            "Combine": "(NR2)--14-->1033012"
         },
         {
-            "EdgeText": "\u00a73012",
+            "EdgeText": "3012",
             "Type": "NR1",
             "StartNode": "Interagency Working Group on Health Care Quality",
             "source": 14,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR1)--14-->97\u00a73012"
+            "Combine": "(NR1)--14-->973012"
         },
         {
-            "EdgeText": "\u00a73012",
+            "EdgeText": "3012",
             "Type": "NR1",
             "StartNode": "Interagency Working Group on Health Care Quality",
             "source": 14,
             "EndNode": "Labor Department",
             "target": 15,
-            "Combine": "(NR1)--14-->15\u00a73012"
+            "Combine": "(NR1)--14-->153012"
         },
         {
-            "EdgeText": "\u00a71511",
+            "EdgeText": "1511",
             "Type": "NR1",
             "StartNode": "Labor Department",
             "source": 15,
             "EndNode": "Mandatory\r Worker Auto-\r Enrollment",
             "target": 141,
-            "Combine": "(NR1)--15-->141\u00a71511"
+            "Combine": "(NR1)--15-->1411511"
         },
         {
-            "EdgeText": "\u00a76605",
+            "EdgeText": "6605",
             "Type": "NR1",
             "StartNode": "Labor Department",
             "source": 15,
             "EndNode": "MEWA Health Plans",
             "target": 130,
-            "Combine": "(NR1)--15-->130\u00a76605"
+            "Combine": "(NR1)--15-->1306605"
         },
         {
-            "EdgeText": "\u00a71512",
+            "EdgeText": "1512",
             "Type": "NR1",
             "StartNode": "Labor Department",
             "source": 15,
             "EndNode": "Employers",
             "target": 138,
-            "Combine": "(NR1)--15-->138\u00a71512"
+            "Combine": "(NR1)--15-->1381512"
         },
         {
-            "EdgeText": "\u00a71001, 10101",
+            "EdgeText": "1001, 10101",
             "Type": "NR1",
             "StartNode": "Rules for Insurance Claims Appeals",
             "source": 16,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--16-->102\u00a71001, 10101"
+            "Combine": "(NR1)--16-->1021001, 10101"
         },
         {
-            "EdgeText": "\u00a71513, 10106",
+            "EdgeText": "1513, 10106",
             "Type": "NR1",
             "StartNode": "Hours of Service Determination for Calculating Employer Mandate Penalty",
             "source": 17,
             "EndNode": "Large Employers",
             "target": 142,
-            "Combine": "(NR1)--17-->142\u00a71513, 10106"
+            "Combine": "(NR1)--17-->1421513, 10106"
         },
         {
-            "EdgeText": "\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR1",
             "StartNode": "IPAB",
             "source": 20,
             "EndNode": "CMS",
             "target": 74,
-            "Combine": "(NR1)--20-->74\u00a73403, 10320"
+            "Combine": "(NR1)--20-->743403, 10320"
         },
         {
-            "EdgeText": "\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR1",
             "StartNode": "IPAB",
             "source": 20,
             "EndNode": "President",
             "target": 1,
-            "Combine": "(NR1)--20-->1\u00a73403, 10320"
+            "Combine": "(NR1)--20-->13403, 10320"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR4",
             "StartNode": "Medicare Part A Trust Fund",
             "source": 21,
             "EndNode": "PCORI Trust Fund",
             "target": 10,
-            "Combine": "(NR4)--21-->10\u00a76301"
+            "Combine": "(NR4)--21-->106301"
         },
         {
-            "EdgeText": "\u00a73026",
+            "EdgeText": "3026",
             "Type": "NR4",
             "StartNode": "Medicare Part A Trust Fund",
             "source": 21,
             "EndNode": "Community- Based Care Transitions Program",
             "target": 73,
-            "Combine": "(NR4)--21-->73\u00a73026"
+            "Combine": "(NR4)--21-->733026"
         },
         {
-            "EdgeText": "\u00a73403",
+            "EdgeText": "3403",
             "Type": "NR4",
             "StartNode": "Medicare Part A Trust Fund",
             "source": 21,
             "EndNode": "IPAB",
             "target": 20,
-            "Combine": "(NR4)--21-->20\u00a73403"
+            "Combine": "(NR4)--21-->203403"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR4",
             "StartNode": "Medicare Part B Trust Fund",
             "source": 23,
             "EndNode": "PCORI Trust Fund",
             "target": 10,
-            "Combine": "(NR4)--23-->10\u00a76301"
+            "Combine": "(NR4)--23-->106301"
         },
         {
-            "EdgeText": "\u00a73026",
+            "EdgeText": "3026",
             "Type": "NR4",
             "StartNode": "Medicare Part B Trust Fund",
             "source": 23,
             "EndNode": "Community- Based Care Transitions Program",
             "target": 73,
-            "Combine": "(NR4)--23-->73\u00a73026"
+            "Combine": "(NR4)--23-->733026"
         },
         {
-            "EdgeText": "\u00a7\u00a79009, 10904",
+            "EdgeText": "9009, 10904",
             "Type": "NR1",
             "StartNode": "Medical Device Excise Tax",
             "source": 24,
             "EndNode": "Medical Device Manufacturers",
             "target": 35,
-            "Combine": "(NR1)--24-->35\u00a7\u00a79009, 10904"
+            "Combine": "(NR1)--24-->359009, 10904"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR2",
             "StartNode": "Skilled Nursing Facilities",
             "source": 25,
             "EndNode": "Non- Hospital Value-Based Purchasing Program",
             "target": 80,
-            "Combine": "(NR2)--25-->80\u00a7\u00a73006, 10301"
+            "Combine": "(NR2)--25-->803006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73001, 10335",
+            "EdgeText": "3001, 10335",
             "Type": "NR2",
             "StartNode": "Hospitals",
             "source": 26,
             "EndNode": "Hospital Value-Based Purchasing Program",
             "target": 82,
-            "Combine": "(NR2)--26-->82\u00a7\u00a73001, 10335"
+            "Combine": "(NR2)--26-->823001, 10335"
         },
         {
-            "EdgeText": "\u00a73311",
+            "EdgeText": "3311",
             "Type": "NR2",
             "StartNode": "Medicare Administrative Contractors",
             "source": 27,
             "EndNode": "Medicare Prescription Drug and MA-PD Complaint System",
             "target": 89,
-            "Combine": "(NR2)--27-->89\u00a73311"
+            "Combine": "(NR2)--27-->893311"
         },
         {
-            "EdgeText": "\u00a73005",
+            "EdgeText": "3005",
             "Type": "NR2",
             "StartNode": "PPS-Exempt Cancer Hospitals",
             "source": 28,
             "EndNode": "Hospital Quality Reporting Program",
             "target": 88,
-            "Combine": "(NR2)--28-->88\u00a73005"
+            "Combine": "(NR2)--28-->883005"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR2",
             "StartNode": "Long-Term Care Hospitals",
             "source": 29,
             "EndNode": "Hospital Quality Reporting Program",
             "target": 88,
-            "Combine": "(NR2)--29-->88\u00a73004"
+            "Combine": "(NR2)--29-->883004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR2",
             "StartNode": "Hospice Programs",
             "source": 30,
             "EndNode": "Hospital Quality Reporting Program",
             "target": 88,
-            "Combine": "(NR2)--30-->88\u00a73004"
+            "Combine": "(NR2)--30-->883004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR2",
             "StartNode": "Inpatient Rehabilitation Facilities",
             "source": 31,
             "EndNode": "Hospital Quality Reporting Program",
             "target": 88,
-            "Combine": "(NR2)--31-->88\u00a73004"
+            "Combine": "(NR2)--31-->883004"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR2",
             "StartNode": "Home Health Agencies",
             "source": 36,
             "EndNode": "Non- Hospital Value-Based Purchasing Program",
             "target": 80,
-            "Combine": "(NR2)--36-->80\u00a7\u00a73006, 10301"
+            "Combine": "(NR2)--36-->803006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR2",
             "StartNode": "Ambulatory Surgical Centers",
             "source": 37,
             "EndNode": "Non- Hospital Value-Based Purchasing Program",
             "target": 80,
-            "Combine": "(NR2)--37-->80\u00a7\u00a73006, 10301"
+            "Combine": "(NR2)--37-->803006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73002, 10327, 10331",
+            "EdgeText": "3002, 10327, 10331",
             "Type": "NR2",
             "StartNode": "Physicians",
             "source": 32,
             "EndNode": "Physician Quality Reporting System",
             "target": 86,
-            "Combine": "(NR2)--32-->86\u00a7\u00a73002, 10327, 10331"
+            "Combine": "(NR2)--32-->863002, 10327, 10331"
         },
         {
-            "EdgeText": "\u00a73007",
+            "EdgeText": "3007",
             "Type": "NR2",
             "StartNode": "Physicians",
             "source": 32,
             "EndNode": "Physician Value-Based Payment Modifier",
             "target": 87,
-            "Combine": "(NR2)--32-->87\u00a73007"
+            "Combine": "(NR2)--32-->873007"
         },
         {
-            "EdgeText": "\u00a79008; HCERA \u00a71404",
+            "EdgeText": "9008; HCERA 1404",
             "Type": "NR1",
             "StartNode": "Annual Fee",
             "source": 33,
             "EndNode": "Pharmaceutical Companies",
             "target": 34,
-            "Combine": "(NR1)--33-->34\u00a79008; HCERA \u00a71404"
+            "Combine": "(NR1)--33-->349008; HCERA 1404"
         },
         {
-            "EdgeText": "\u00a79008; HCERA \u00a71404",
+            "EdgeText": "9008; HCERA 1404",
             "Type": "NR4",
             "StartNode": "Pharmaceutical Companies",
             "source": 34,
             "EndNode": "Pharmaceutical Companies",
             "target": 34,
-            "Combine": "(NR4)--34-->34\u00a79008; HCERA \u00a71404"
+            "Combine": "(NR4)--34-->349008; HCERA 1404"
         },
         {
-            "EdgeText": "\u00a7\u00a79009, 10904; HCERA \u00a71405",
+            "EdgeText": "9009, 10904; HCERA 1405",
             "Type": "NR4",
             "StartNode": "Medical Device Manufacturers",
             "source": 35,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--35-->157\u00a7\u00a79009, 10904; HCERA \u00a71405"
+            "Combine": "(NR4)--35-->1579009, 10904; HCERA 1405"
         },
         {
-            "EdgeText": "\u00a74305",
+            "EdgeText": "4305",
             "Type": "NR2",
             "StartNode": "Interagency Pain Research Coordinating Committee",
             "source": 38,
             "EndNode": "NIH",
             "target": 51,
-            "Combine": "(NR2)--38-->51\u00a74305"
+            "Combine": "(NR2)--38-->514305"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "CLASS Program",
             "source": 39,
             "EndNode": "Eligibility Assessment System",
             "target": 41,
-            "Combine": "(NR1)--39-->41\u00a78002"
+            "Combine": "(NR1)--39-->418002"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "CLASS Program",
             "source": 39,
             "EndNode": "CLASS Independence Benefit Plan",
             "target": 43,
-            "Combine": "(NR1)--39-->43\u00a78002"
+            "Combine": "(NR1)--39-->438002"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR2",
             "StartNode": "CLASS Program",
             "source": 39,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--39-->103\u00a78002"
+            "Combine": "(NR2)--39-->1038002"
         },
         {
-            "EdgeText": "\u00a710407",
+            "EdgeText": "10407",
             "Type": "NR3",
             "StartNode": "National Diabetes Report Card Program",
             "source": 46,
             "EndNode": "Vital Statistics Agencies",
             "target": 108,
-            "Combine": "(NR3)--46-->108\u00a710407"
+            "Combine": "(NR3)--46-->10810407"
         },
         {
-            "EdgeText": "\u00a74003",
+            "EdgeText": "4003",
             "Type": "NR1",
             "StartNode": "CDC",
             "source": 48,
             "EndNode": "Community Preventive Services Task Force",
             "target": 44,
-            "Combine": "(NR1)--48-->44\u00a74003"
+            "Combine": "(NR1)--48-->444003"
         },
         {
-            "EdgeText": "\u00a74102",
+            "EdgeText": "4102",
             "Type": "NR1",
             "StartNode": "CDC",
             "source": 48,
             "EndNode": "National Oral Health Public Education Campaign",
             "target": 45,
-            "Combine": "(NR1)--48-->45\u00a74102"
+            "Combine": "(NR1)--48-->454102"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR1",
             "StartNode": "CDC",
             "source": 48,
             "EndNode": "National Partnership on Prevention & Health Promotion",
             "target": 50,
-            "Combine": "(NR1)--48-->50\u00a74004"
+            "Combine": "(NR1)--48-->504004"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR4",
             "StartNode": "CDC",
             "source": 48,
             "EndNode": "National Public Education Campaign on Prevention & Health Promotion",
             "target": 49,
-            "Combine": "(NR4)--48-->49\u00a74004"
+            "Combine": "(NR4)--48-->494004"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR1",
             "StartNode": "National Partnership on Prevention & Health Promotion",
             "source": 50,
             "EndNode": "National Public Education Campaign on Prevention & Health Promotion",
             "target": 49,
-            "Combine": "(NR1)--50-->49\u00a74004"
+            "Combine": "(NR1)--50-->494004"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR2",
             "StartNode": "National Partnership on Prevention & Health Promotion",
             "source": 50,
             "EndNode": "CDC",
             "target": 48,
-            "Combine": "(NR2)--50-->48\u00a74004"
+            "Combine": "(NR2)--50-->484004"
         },
         {
-            "EdgeText": "\u00a710409",
+            "EdgeText": "10409",
             "Type": "NR1",
             "StartNode": "NIH",
             "source": 51,
             "EndNode": "Cures Acceleration Network",
             "target": 52,
-            "Combine": "(NR1)--51-->52\u00a710409"
+            "Combine": "(NR1)--51-->5210409"
         },
         {
-            "EdgeText": "\u00a710409",
+            "EdgeText": "10409",
             "Type": "NR2",
             "StartNode": "Cures Acceleration Network",
             "source": 52,
             "EndNode": "NIH",
             "target": 51,
-            "Combine": "(NR2)--52-->51\u00a710409"
+            "Combine": "(NR2)--52-->5110409"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "CLASS Independence Fund Board of Trustees",
             "source": 54,
             "EndNode": "CLASS Program",
             "target": 39,
-            "Combine": "(NR1)--54-->39\u00a78002"
+            "Combine": "(NR1)--54-->398002"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR4",
             "StartNode": "CLASS Independence Fund",
             "source": 55,
             "EndNode": "Life Independence Accounts",
             "target": 56,
-            "Combine": "(NR4)--55-->56\u00a78002"
+            "Combine": "(NR4)--55-->568002"
         },
         {
-            "EdgeText": "\u00a74002",
+            "EdgeText": "4002",
             "Type": "NR4",
             "StartNode": "Prevention & Public Health Fund",
             "source": 58,
             "EndNode": "Public Health Service",
             "target": 64,
-            "Combine": "(NR4)--58-->64\u00a74002"
+            "Combine": "(NR4)--58-->644002"
         },
         {
-            "EdgeText": "\u00a74001",
+            "EdgeText": "4001",
             "Type": "NR2",
             "StartNode": "National Prevention, Health Promotion, & Public Health Council",
             "source": 59,
             "EndNode": "Surgeon General",
             "target": 60,
-            "Combine": "(NR2)--59-->60\u00a74001"
+            "Combine": "(NR2)--59-->604001"
         },
         {
-            "EdgeText": "\u00a74001",
+            "EdgeText": "4001",
             "Type": "NR2",
             "StartNode": "Advisory Group on Prevention, Health Promotion, and Integrative and Public Health",
             "source": 63,
             "EndNode": "Surgeon General",
             "target": 60,
-            "Combine": "(NR2)--63-->60\u00a74001"
+            "Combine": "(NR2)--63-->604001"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR2",
             "StartNode": "Public Health Service",
             "source": 64,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--64-->97\u00a73011"
+            "Combine": "(NR2)--64-->973011"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR1",
             "StartNode": "Public Health Service",
             "source": 64,
             "EndNode": "National Health Strategy & Priorities Office",
             "target": 67,
-            "Combine": "(NR1)--64-->67\u00a73011"
+            "Combine": "(NR1)--64-->673011"
         },
         {
-            "EdgeText": "\u00a73013",
+            "EdgeText": "3013",
             "Type": "NR1",
             "StartNode": "Public Health Quality & Efficiency Measures Development Program",
             "source": 66,
             "EndNode": "National Health Strategy & Priorities Office",
             "target": 67,
-            "Combine": "(NR1)--66-->67\u00a73013"
+            "Combine": "(NR1)--66-->673013"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR1",
             "StartNode": "National Health Strategy & Priorities Office",
             "source": 67,
             "EndNode": "Public Health Service",
             "target": 64,
-            "Combine": "(NR1)--67-->64\u00a73011"
+            "Combine": "(NR1)--67-->643011"
         },
         {
-            "EdgeText": "\u00a73013",
+            "EdgeText": "3013",
             "Type": "NR2",
             "StartNode": "National Health Strategy & Priorities Office",
             "source": 67,
             "EndNode": "Public Health Quality & Efficiency Measures Development Program",
             "target": 66,
-            "Combine": "(NR2)--67-->66\u00a73013"
+            "Combine": "(NR2)--67-->663013"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR1",
             "StartNode": "National Health Strategy & Priorities Office",
             "source": 67,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR1)--67-->103\u00a73011"
+            "Combine": "(NR1)--67-->1033011"
         },
         {
-            "EdgeText": "\u00a74302",
+            "EdgeText": "4302",
             "Type": "NR1",
             "StartNode": "National Health Disparities Data Collection & Reporting System",
             "source": 68,
             "EndNode": "Public Health Service",
             "target": 64,
-            "Combine": "(NR1)--68-->64\u00a74302"
+            "Combine": "(NR1)--68-->644302"
         },
         {
-            "EdgeText": "\u00a71561",
+            "EdgeText": "1561",
             "Type": "NR2",
             "StartNode": "Health IT Policy Committee",
             "source": 70,
             "EndNode": "CMS",
             "target": 74,
-            "Combine": "(NR2)--70-->74\u00a71561"
+            "Combine": "(NR2)--70-->741561"
         },
         {
-            "EdgeText": "\u00a73021",
+            "EdgeText": "3021",
             "Type": "NR1",
             "StartNode": "Center for Medicare & Medicaid Innovation",
             "source": 72,
             "EndNode": "CMS",
             "target": 74,
-            "Combine": "(NR1)--72-->74\u00a73021"
+            "Combine": "(NR1)--72-->743021"
         },
         {
-            "EdgeText": "\u00a73021",
+            "EdgeText": "3021",
             "Type": "NR1",
             "StartNode": "Center for Medicare & Medicaid Innovation",
             "source": 72,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR1)--72-->103\u00a73021"
+            "Combine": "(NR1)--72-->1033021"
         },
         {
-            "EdgeText": "\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR3",
             "StartNode": "CMS Actuary",
             "source": 75,
             "EndNode": "Optional\r Basic Health\r Program",
             "target": 114,
-            "Combine": "(NR3)--75-->114\u00a71331, 10104"
+            "Combine": "(NR3)--75-->1141331, 10104"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR1",
             "StartNode": "Federal Coordinated Health Care Office",
             "source": 76,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR1)--76-->97\u00a72602"
+            "Combine": "(NR1)--76-->972602"
         },
         {
-            "EdgeText": "\u00a73022, 10307",
+            "EdgeText": "3022, 10307",
             "Type": "NR1",
             "StartNode": "FFS Accountable Care Organizations Program",
             "source": 79,
             "EndNode": "Medicare",
             "target": 85,
-            "Combine": "(NR1)--79-->85\u00a73022, 10307"
+            "Combine": "(NR1)--79-->853022, 10307"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR1",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Skilled Nursing Facilities",
             "target": 25,
-            "Combine": "(NR1)--80-->25\u00a7\u00a73006, 10301"
+            "Combine": "(NR1)--80-->253006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR1",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Ambulatory Surgical Centers",
             "target": 37,
-            "Combine": "(NR1)--80-->37\u00a7\u00a73006, 10301"
+            "Combine": "(NR1)--80-->373006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR1",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Home Health Agencies",
             "target": 36,
-            "Combine": "(NR1)--80-->36\u00a7\u00a73006, 10301"
+            "Combine": "(NR1)--80-->363006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR4",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Skilled Nursing Facilities",
             "target": 25,
-            "Combine": "(NR4)--80-->25\u00a7\u00a73006, 10301"
+            "Combine": "(NR4)--80-->253006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR4",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Ambulatory Surgical Centers",
             "target": 37,
-            "Combine": "(NR4)--80-->37\u00a7\u00a73006, 10301"
+            "Combine": "(NR4)--80-->373006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73006, 10301",
+            "EdgeText": "3006, 10301",
             "Type": "NR4",
             "StartNode": "Non- Hospital Value-Based Purchasing Program",
             "source": 80,
             "EndNode": "Home Health Agencies",
             "target": 36,
-            "Combine": "(NR4)--80-->36\u00a7\u00a73006, 10301"
+            "Combine": "(NR4)--80-->363006, 10301"
         },
         {
-            "EdgeText": "\u00a7\u00a73001, 10335",
+            "EdgeText": "3001, 10335",
             "Type": "NR4",
             "StartNode": "Hospital Value-Based Purchasing Program",
             "source": 82,
             "EndNode": "Hospitals",
             "target": 26,
-            "Combine": "(NR4)--82-->26\u00a7\u00a73001, 10335"
+            "Combine": "(NR4)--82-->263001, 10335"
         },
         {
-            "EdgeText": "\u00a7\u00a73001, 10335",
+            "EdgeText": "3001, 10335",
             "Type": "NR1",
             "StartNode": "Hospital Value-Based Purchasing Program",
             "source": 82,
             "EndNode": "Hospitals",
             "target": 26,
-            "Combine": "(NR1)--82-->26\u00a7\u00a73001, 10335"
+            "Combine": "(NR1)--82-->263001, 10335"
         },
         {
-            "EdgeText": "\u00a7\u00a73002, 10327, 10331",
+            "EdgeText": "3002, 10327, 10331",
             "Type": "NR4",
             "StartNode": "Physician Quality Reporting System",
             "source": 86,
             "EndNode": "Physicians",
             "target": 32,
-            "Combine": "(NR4)--86-->32\u00a7\u00a73002, 10327, 10331"
+            "Combine": "(NR4)--86-->323002, 10327, 10331"
         },
         {
-            "EdgeText": "\u00a73007",
+            "EdgeText": "3007",
             "Type": "NR1",
             "StartNode": "Physician Value-Based Payment Modifier",
             "source": 87,
             "EndNode": "Physicians",
             "target": 32,
-            "Combine": "(NR1)--87-->32\u00a73007"
+            "Combine": "(NR1)--87-->323007"
         },
         {
-            "EdgeText": "\u00a7\u00a73007",
+            "EdgeText": "3007",
             "Type": "NR4",
             "StartNode": "Physician Value-Based Payment Modifier",
             "source": 87,
             "EndNode": "Physicians",
             "target": 32,
-            "Combine": "(NR4)--87-->32\u00a7\u00a73007"
+            "Combine": "(NR4)--87-->323007"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR4",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Long-Term Care Hospitals",
             "target": 29,
-            "Combine": "(NR4)--88-->29\u00a73004"
+            "Combine": "(NR4)--88-->293004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR4",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Hospice Programs",
             "target": 30,
-            "Combine": "(NR4)--88-->30\u00a73004"
+            "Combine": "(NR4)--88-->303004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR4",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Inpatient Rehabilitation Facilities",
             "target": 31,
-            "Combine": "(NR4)--88-->31\u00a73004"
+            "Combine": "(NR4)--88-->313004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR1",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Long-Term Care Hospitals",
             "target": 29,
-            "Combine": "(NR1)--88-->29\u00a73004"
+            "Combine": "(NR1)--88-->293004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR1",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Hospice Programs",
             "target": 30,
-            "Combine": "(NR1)--88-->30\u00a73004"
+            "Combine": "(NR1)--88-->303004"
         },
         {
-            "EdgeText": "\u00a73004",
+            "EdgeText": "3004",
             "Type": "NR1",
             "StartNode": "Hospital Quality Reporting Program",
             "source": 88,
             "EndNode": "Inpatient Rehabilitation Facilities",
             "target": 31,
-            "Combine": "(NR1)--88-->31\u00a73004"
+            "Combine": "(NR1)--88-->313004"
         },
         {
-            "EdgeText": "\u00a7\u00a72001-2004",
+            "EdgeText": "2001-2004",
             "Type": "NR1",
             "StartNode": "Medicaid Expansion: +16 million",
             "source": 90,
             "EndNode": "Medicaid\/ CHIP",
             "target": 78,
-            "Combine": "(NR1)--90-->78\u00a7\u00a72001-2004"
+            "Combine": "(NR1)--90-->782001-2004"
         },
         {
-            "EdgeText": "\u00a72703",
+            "EdgeText": "2703",
             "Type": "NR1",
             "StartNode": "State Medicaid Agencies",
             "source": 91,
             "EndNode": "Medicaid Health Home Program",
             "target": 77,
-            "Combine": "(NR1)--91-->77\u00a72703"
+            "Combine": "(NR1)--91-->772703"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR2",
             "StartNode": "State Medicaid Agencies",
             "source": 91,
             "EndNode": "State- Specific Adult Health Quality Measures",
             "target": 93,
-            "Combine": "(NR2)--91-->93\u00a72701"
+            "Combine": "(NR2)--91-->932701"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR2",
             "StartNode": "State Medicaid Agencies",
             "source": 91,
             "EndNode": "Medicaid Quality Measurement Program",
             "target": 96,
-            "Combine": "(NR2)--91-->96\u00a72701"
+            "Combine": "(NR2)--91-->962701"
         },
         {
-            "EdgeText": "\u00a72703",
+            "EdgeText": "2703",
             "Type": "NR2",
             "StartNode": "State Medicaid Agencies",
             "source": 91,
             "EndNode": "Medicaid\/ CHIP",
             "target": 78,
-            "Combine": "(NR2)--91-->78\u00a72703"
+            "Combine": "(NR2)--91-->782703"
         },
         {
             "EdgeText": "Title III",
@@ -4171,436 +4174,436 @@
             "Combine": "(NR1)--92-->85Title III"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR2",
             "StartNode": "State- Specific Adult Health Quality Measures",
             "source": 93,
             "EndNode": "Medicaid Quality Measurement Program",
             "target": 96,
-            "Combine": "(NR2)--93-->96\u00a72701"
+            "Combine": "(NR2)--93-->962701"
         },
         {
-            "EdgeText": "\u00a7\u00a73201, 10318; HCERA \u00a71102",
+            "EdgeText": "3201, 10318; HCERA 1102",
             "Type": "NR1",
             "StartNode": "Medicare Advantage Cuts: $205.9bn",
             "source": 94,
             "EndNode": "Medicare",
             "target": 85,
-            "Combine": "(NR1)--94-->85\u00a7\u00a73201, 10318; HCERA \u00a71102"
+            "Combine": "(NR1)--94-->853201, 10318; HCERA 1102"
         },
         {
-            "EdgeText": "\u00a73301; HCERA \u00a71101",
+            "EdgeText": "3301; HCERA 1101",
             "Type": "NR4",
             "StartNode": "Subsidy:\r Medicare Part D\r Drug Program\r \u201cDonut Hole\u201d",
             "source": 95,
             "EndNode": "Medicare",
             "target": 85,
-            "Combine": "(NR4)--95-->85\u00a73301; HCERA \u00a71101"
+            "Combine": "(NR4)--95-->853301; HCERA 1101"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR2",
             "StartNode": "Medicaid Quality Measurement Program",
             "source": 96,
             "EndNode": "Medicaid\/ CHIP",
             "target": 78,
-            "Combine": "(NR2)--96-->78\u00a72701"
+            "Combine": "(NR2)--96-->782701"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR2",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Homeland Security Department",
             "target": 2,
-            "Combine": "(NR2)--97-->2\u00a71411"
+            "Combine": "(NR2)--97-->21411"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Advisory Board on Elder Abuse, Neglect, & Exploitation",
             "target": 151,
-            "Combine": "(NR1)--97-->151\u00a76703"
+            "Combine": "(NR1)--97-->1516703"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR4",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Elder Abuse, Neglect, & Exploitation Forensic Centers",
             "target": 154,
-            "Combine": "(NR4)--97-->154\u00a76703"
+            "Combine": "(NR4)--97-->1546703"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Elder Justice Coordinating Council",
             "target": 155,
-            "Combine": "(NR1)--97-->155\u00a76703"
+            "Combine": "(NR1)--97-->1556703"
         },
         {
-            "EdgeText": "\u00a71333, 10104",
+            "EdgeText": "1333, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Health Care Choice Compacts",
             "target": 112,
-            "Combine": "(NR1)--97-->112\u00a71333, 10104"
+            "Combine": "(NR1)--97-->1121333, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR1)--97-->110\u00a7\u00a71311, 10104"
+            "Combine": "(NR1)--97-->1101311, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Qualified\r Health\r Plans",
             "target": 122,
-            "Combine": "(NR1)--97-->122\u00a7\u00a71311, 10104"
+            "Combine": "(NR1)--97-->1221311, 10104"
         },
         {
-            "EdgeText": "\u00a73311",
+            "EdgeText": "3311",
             "Type": "NR2",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--97-->103\u00a73311"
+            "Combine": "(NR2)--97-->1033311"
         },
         {
-            "EdgeText": "\u00a7\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR4",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR4)--97-->110\u00a7\u00a71331, 10104"
+            "Combine": "(NR4)--97-->1101331, 10104"
         },
         {
-            "EdgeText": "\u00a71323; HCERA: \u00a71204",
+            "EdgeText": "1323; HCERA: 1204",
             "Type": "NR4",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "US\r Territories",
             "target": 126,
-            "Combine": "(NR4)--97-->126\u00a71323; HCERA: \u00a71204"
+            "Combine": "(NR4)--97-->1261323; HCERA: 1204"
         },
         {
-            "EdgeText": "\u00a7\u00a71322, 10104",
+            "EdgeText": "1322, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Health Insurance CO-OP",
             "target": 116,
-            "Combine": "(NR1)--97-->116\u00a7\u00a71322, 10104"
+            "Combine": "(NR1)--97-->1161322, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR4",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR4)--97-->110\u00a7\u00a71311, 10104"
+            "Combine": "(NR4)--97-->1101311, 10104"
         },
         {
-            "EdgeText": "\u00a71341, 10104",
+            "EdgeText": "1341, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR1)--97-->110\u00a71341, 10104"
+            "Combine": "(NR1)--97-->1101341, 10104"
         },
         {
-            "EdgeText": "\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Optional\r Basic Health\r Program",
             "target": 114,
-            "Combine": "(NR1)--97-->114\u00a71331, 10104"
+            "Combine": "(NR1)--97-->1141331, 10104"
         },
         {
-            "EdgeText": "\u00a71322",
+            "EdgeText": "1322",
             "Type": "NR4",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Health Insurance CO-OP",
             "target": 116,
-            "Combine": "(NR4)--97-->116\u00a71322"
+            "Combine": "(NR4)--97-->1161322"
         },
         {
-            "EdgeText": "\u00a71001",
+            "EdgeText": "1001",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Value-Based Insurance Design & Coverage of Preventive Health Services",
             "target": 127,
-            "Combine": "(NR1)--97-->127\u00a71001"
+            "Combine": "(NR1)--97-->1271001"
         },
         {
-            "EdgeText": "\u00a7\u00a71201, 1301, 1302",
+            "EdgeText": "1201, 1301, 1302",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Essential Health Benefits Package",
             "target": 100,
-            "Combine": "(NR1)--97-->100\u00a7\u00a71201, 1301, 1302"
+            "Combine": "(NR1)--97-->1001201, 1301, 1302"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Privacy Study",
             "target": 123,
-            "Combine": "(NR1)--97-->123\u00a71411"
+            "Combine": "(NR1)--97-->1231411"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "HHS Inspector General",
             "target": 150,
-            "Combine": "(NR1)--97-->150\u00a78002"
+            "Combine": "(NR1)--97-->1508002"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Eligibility Determinations",
             "target": 124,
-            "Combine": "(NR1)--97-->124\u00a71411"
+            "Combine": "(NR1)--97-->1241411"
         },
         {
-            "EdgeText": "\u00a71321",
+            "EdgeText": "1321",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR1)--97-->115\u00a71321"
+            "Combine": "(NR1)--97-->1151321"
         },
         {
-            "EdgeText": "\u00a73311",
+            "EdgeText": "3311",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Medicare Prescription Drug and MA-PD Complaint System",
             "target": 89,
-            "Combine": "(NR1)--97-->89\u00a73311"
+            "Combine": "(NR1)--97-->893311"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Medicaid Quality Measurement Program",
             "target": 96,
-            "Combine": "(NR1)--97-->96\u00a72701"
+            "Combine": "(NR1)--97-->962701"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "State- Specific Adult Health Quality Measures",
             "target": 93,
-            "Combine": "(NR1)--97-->93\u00a72701"
+            "Combine": "(NR1)--97-->932701"
         },
         {
-            "EdgeText": "\u00a72701",
+            "EdgeText": "2701",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "State Medicaid Agencies",
             "target": 91,
-            "Combine": "(NR1)--97-->91\u00a72701"
+            "Combine": "(NR1)--97-->912701"
         },
         {
-            "EdgeText": "\u00a72703",
+            "EdgeText": "2703",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "State Medicaid Agencies",
             "target": 91,
-            "Combine": "(NR1)--97-->91\u00a72703"
+            "Combine": "(NR1)--97-->912703"
         },
         {
-            "EdgeText": "\u00a71342",
+            "EdgeText": "1342",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Risk\r Corridors",
             "target": 125,
-            "Combine": "(NR1)--97-->125\u00a71342"
+            "Combine": "(NR1)--97-->1251342"
         },
         {
-            "EdgeText": "\u00a72703",
+            "EdgeText": "2703",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Medicaid Health Home Program",
             "target": 77,
-            "Combine": "(NR1)--97-->77\u00a72703"
+            "Combine": "(NR1)--97-->772703"
         },
         {
-            "EdgeText": "\u00a72602",
+            "EdgeText": "2602",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Federal Coordinated Health Care Office",
             "target": 76,
-            "Combine": "(NR1)--97-->76\u00a72602"
+            "Combine": "(NR1)--97-->762602"
         },
         {
-            "EdgeText": "\u00a7\u00a73022, 10307",
+            "EdgeText": "3022, 10307",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "FFS Accountable Care Organizations Program",
             "target": 79,
-            "Combine": "(NR1)--97-->79\u00a7\u00a73022, 10307"
+            "Combine": "(NR1)--97-->793022, 10307"
         },
         {
-            "EdgeText": "\u00a7\u00a73004, 3005",
+            "EdgeText": "3004, 3005",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Hospital Quality Reporting Program",
             "target": 88,
-            "Combine": "(NR1)--97-->88\u00a7\u00a73004, 3005"
+            "Combine": "(NR1)--97-->883004, 3005"
         },
         {
-            "EdgeText": "\u00a73026",
+            "EdgeText": "3026",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Community- Based Care Transitions Program",
             "target": 73,
-            "Combine": "(NR1)--97-->73\u00a73026"
+            "Combine": "(NR1)--97-->733026"
         },
         {
-            "EdgeText": "\u00a7\u00a73021, 10305, 10306",
+            "EdgeText": "3021, 10305, 10306",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Center for Medicare & Medicaid Innovation",
             "target": 72,
-            "Combine": "(NR1)--97-->72\u00a7\u00a73021, 10305, 10306"
+            "Combine": "(NR1)--97-->723021, 10305, 10306"
         },
         {
-            "EdgeText": "\u00a73011",
+            "EdgeText": "3011",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Public Health Service",
             "target": 64,
-            "Combine": "(NR1)--97-->64\u00a73011"
+            "Combine": "(NR1)--97-->643011"
         },
         {
-            "EdgeText": "\u00a74002",
+            "EdgeText": "4002",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Prevention & Public Health Fund",
             "target": 58,
-            "Combine": "(NR1)--97-->58\u00a74002"
+            "Combine": "(NR1)--97-->584002"
         },
         {
-            "EdgeText": "\u00a74305",
+            "EdgeText": "4305",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Interagency Pain Research Coordinating Committee",
             "target": 38,
-            "Combine": "(NR1)--97-->38\u00a74305"
+            "Combine": "(NR1)--97-->384305"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "CLASS Program",
             "target": 39,
-            "Combine": "(NR1)--97-->39\u00a78002"
+            "Combine": "(NR1)--97-->398002"
         },
         {
-            "EdgeText": "\u00a74004",
+            "EdgeText": "4004",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "CDC",
             "target": 48,
-            "Combine": "(NR1)--97-->48\u00a74004"
+            "Combine": "(NR1)--97-->484004"
         },
         {
-            "EdgeText": "\u00a710407",
+            "EdgeText": "10407",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "National Diabetes Mortality Statistics Education Training Program",
             "target": 47,
-            "Combine": "(NR1)--97-->47\u00a710407"
+            "Combine": "(NR1)--97-->4710407"
         },
         {
-            "EdgeText": "\u00a710407",
+            "EdgeText": "10407",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "National Diabetes Report Card Program",
             "target": 46,
-            "Combine": "(NR1)--97-->46\u00a710407"
+            "Combine": "(NR1)--97-->4610407"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "CLASS Independence Benefit Plan",
             "target": 43,
-            "Combine": "(NR1)--97-->43\u00a78002"
+            "Combine": "(NR1)--97-->438002"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR1",
             "StartNode": "Secretary Health & Human Services",
             "source": 97,
             "EndNode": "Personal Care Attendants Workforce Advisory Panel",
             "target": 42,
-            "Combine": "(NR1)--97-->42\u00a78002"
+            "Combine": "(NR1)--97-->428002"
         },
         {
-            "EdgeText": "\u00a71302",
+            "EdgeText": "1302",
             "Type": "NR1",
             "StartNode": "Essential Health Benefits Package",
             "source": 100,
             "EndNode": "Optional\r Basic Health\r Program",
             "target": 114,
-            "Combine": "(NR1)--100-->114\u00a71302"
+            "Combine": "(NR1)--100-->1141302"
         },
         {
-            "EdgeText": "\u00a7\u00a71201, 1301, 1302",
+            "EdgeText": "1201, 1301, 1302",
             "Type": "NR1",
             "StartNode": "Essential Health Benefits Package",
             "source": 100,
             "EndNode": "Qualified\r Health\r Plans",
             "target": 122,
-            "Combine": "(NR1)--100-->122\u00a7\u00a71201, 1301, 1302"
+            "Combine": "(NR1)--100-->1221201, 1301, 1302"
         },
         {
             "EdgeText": null,
@@ -4612,843 +4615,843 @@
             "Combine": "(NR1)--101-->102"
         },
         {
-            "EdgeText": "\u00a71341, 10104",
+            "EdgeText": "1341, 10104",
             "Type": "NR4",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "Reinsurance Program",
             "target": 113,
-            "Combine": "(NR4)--102-->113\u00a71341, 10104"
+            "Combine": "(NR4)--102-->1131341, 10104"
         },
         {
-            "EdgeText": "\u00a71334, 10104",
+            "EdgeText": "1334, 10104",
             "Type": "NR1",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR1)--102-->115\u00a71334, 10104"
+            "Combine": "(NR1)--102-->1151334, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71001, 10101",
+            "EdgeText": "1001, 10101",
             "Type": "NR4",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "Health Insurance Policy Holder",
             "target": 164,
-            "Combine": "(NR4)--102-->164\u00a7\u00a71001, 10101"
+            "Combine": "(NR4)--102-->1641001, 10101"
         },
         {
-            "EdgeText": "\u00a7\u00a79010, 10905; HCERA \u00a71406",
+            "EdgeText": "9010, 10905; HCERA 1406",
             "Type": "NR4",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--102-->157\u00a7\u00a79010, 10905; HCERA \u00a71406"
+            "Combine": "(NR4)--102-->1579010, 10905; HCERA 1406"
         },
         {
-            "EdgeText": "\u00a7\u00a79001, 10901; HCERA \u00a71401",
+            "EdgeText": "9001, 10901; HCERA 1401",
             "Type": "NR4",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--102-->157\u00a7\u00a79001, 10901; HCERA \u00a71401"
+            "Combine": "(NR4)--102-->1579001, 10901; HCERA 1401"
         },
         {
-            "EdgeText": "\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004",
+            "EdgeText": "1401, 1412, 10105; HCERA 1001, 1004",
             "Type": "NR4",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "Premium\r Tax Credit\r Subsidies",
             "target": 173,
-            "Combine": "(NR4)--102-->173\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004"
+            "Combine": "(NR4)--102-->1731401, 1412, 10105; HCERA 1001, 1004"
         },
         {
-            "EdgeText": "\u00a7\u00a71001, 10101",
+            "EdgeText": "1001, 10101",
             "Type": "NR2",
             "StartNode": "Health Insurance Companies",
             "source": 102,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--102-->97\u00a7\u00a71001, 10101"
+            "Combine": "(NR2)--102-->971001, 10101"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR1",
             "StartNode": "Congress",
             "source": 103,
             "EndNode": "Commission on Key Indicators",
             "target": 128,
-            "Combine": "(NR1)--103-->128\u00a75605"
+            "Combine": "(NR1)--103-->1285605"
         },
         {
-            "EdgeText": "\u00a71313, 10104",
+            "EdgeText": "1313, 10104",
             "Type": "NR3",
             "StartNode": "Comptroller General",
             "source": 104,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR3)--104-->115\u00a71313, 10104"
+            "Combine": "(NR3)--104-->1151313, 10104"
         },
         {
-            "EdgeText": "\u00a71322",
+            "EdgeText": "1322",
             "Type": "NR3",
             "StartNode": "Comptroller General",
             "source": 104,
             "EndNode": "Health Insurance CO-OP",
             "target": 116,
-            "Combine": "(NR3)--104-->116\u00a71322"
+            "Combine": "(NR3)--104-->1161322"
         },
         {
-            "EdgeText": "\u00a7\u00a73403, 10320",
+            "EdgeText": "3403, 10320",
             "Type": "NR3",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "IPAB",
             "target": 20,
-            "Combine": "(NR3)--105-->20\u00a7\u00a73403, 10320"
+            "Combine": "(NR3)--105-->203403, 10320"
         },
         {
-            "EdgeText": "\u00a73001",
+            "EdgeText": "3001",
             "Type": "NR3",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "Hospital Value-Based Purchasing Program",
             "target": 82,
-            "Combine": "(NR3)--105-->82\u00a73001"
+            "Combine": "(NR3)--105-->823001"
         },
         {
-            "EdgeText": "\u00a7\u00a71401, 10105",
+            "EdgeText": "1401, 10105",
             "Type": "NR3",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR3)--105-->115\u00a7\u00a71401, 10105"
+            "Combine": "(NR3)--105-->1151401, 10105"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR1",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "PCORI Board of Governors",
             "target": 12,
-            "Combine": "(NR1)--105-->12\u00a76301"
+            "Combine": "(NR1)--105-->126301"
         },
         {
-            "EdgeText": "\u00a76301",
+            "EdgeText": "6301",
             "Type": "NR1",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "PCORI Methodology Committee",
             "target": 8,
-            "Combine": "(NR1)--105-->8\u00a76301"
+            "Combine": "(NR1)--105-->86301"
         },
         {
-            "EdgeText": "\u00a7\u00a73103, 10320",
+            "EdgeText": "3103, 10320",
             "Type": "NR1",
             "StartNode": "GAO",
             "source": 105,
             "EndNode": "CMS",
             "target": 74,
-            "Combine": "(NR1)--105-->74\u00a7\u00a73103, 10320"
+            "Combine": "(NR1)--105-->743103, 10320"
         },
         {
-            "EdgeText": "\u00a71312",
+            "EdgeText": "1312",
             "Type": "NR1",
             "StartNode": "Congress\r Members\r & Personal Staff\r Mandate:\r Only Exchange\r Coverage",
             "source": 107,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR1)--107-->103\u00a71312"
+            "Combine": "(NR1)--107-->1031312"
         },
         {
-            "EdgeText": "\u00a7\u00a71341, 10104",
+            "EdgeText": "1341, 10104",
             "Type": "NR1",
             "StartNode": "States",
             "source": 110,
             "EndNode": "Reinsurance Program",
             "target": 113,
-            "Combine": "(NR1)--110-->113\u00a7\u00a71341, 10104"
+            "Combine": "(NR1)--110-->1131341, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR4",
             "StartNode": "States",
             "source": 110,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR4)--110-->115\u00a7\u00a71311, 10104"
+            "Combine": "(NR4)--110-->1151311, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR1",
             "StartNode": "States",
             "source": 110,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR1)--110-->115\u00a7\u00a71311, 10104"
+            "Combine": "(NR1)--110-->1151311, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 10104",
+            "EdgeText": "1311, 10104",
             "Type": "NR4",
             "StartNode": "States",
             "source": 110,
             "EndNode": "Optional\r Basic Health\r Program",
             "target": 114,
-            "Combine": "(NR4)--110-->114\u00a7\u00a71311, 10104"
+            "Combine": "(NR4)--110-->1141311, 10104"
         },
         {
-            "EdgeText": "\u00a71333, 10104",
+            "EdgeText": "1333, 10104",
             "Type": "NR1",
             "StartNode": "Health Care Choice Compacts",
             "source": 112,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR1)--112-->110\u00a71333, 10104"
+            "Combine": "(NR1)--112-->1101333, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71341, 10104",
+            "EdgeText": "1341, 10104",
             "Type": "NR1",
             "StartNode": "Reinsurance Program",
             "source": 113,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--113-->102\u00a7\u00a71341, 10104"
+            "Combine": "(NR1)--113-->1021341, 10104"
         },
         {
-            "EdgeText": "\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR1",
             "StartNode": "Optional\r Basic Health\r Program",
             "source": 114,
             "EndNode": "States",
             "target": 110,
-            "Combine": "(NR1)--114-->110\u00a71331, 10104"
+            "Combine": "(NR1)--114-->1101331, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71201, 1301",
+            "EdgeText": "1201, 1301",
             "Type": "NR1",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Large Group Market",
             "target": 162,
-            "Combine": "(NR1)--115-->162\u00a7\u00a71201, 1301"
+            "Combine": "(NR1)--115-->1621201, 1301"
         },
         {
-            "EdgeText": "\u00a7\u00a71201, 1301, 1304",
+            "EdgeText": "1201, 1301, 1304",
             "Type": "NR1",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Small Group Market",
             "target": 160,
-            "Combine": "(NR1)--115-->160\u00a7\u00a71201, 1301, 1304"
+            "Combine": "(NR1)--115-->1601201, 1301, 1304"
         },
         {
-            "EdgeText": "\u00a7\u00a71201, 1301, 1304",
+            "EdgeText": "1201, 1301, 1304",
             "Type": "NR1",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Individual Market",
             "target": 161,
-            "Combine": "(NR1)--115-->161\u00a7\u00a71201, 1301, 1304"
+            "Combine": "(NR1)--115-->1611201, 1301, 1304"
         },
         {
-            "EdgeText": "\u00a71334, 10104",
+            "EdgeText": "1334, 10104",
             "Type": "NR1",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--115-->102\u00a71334, 10104"
+            "Combine": "(NR1)--115-->1021334, 10104"
         },
         {
-            "EdgeText": "\u00a7\u00a71311, 1413",
+            "EdgeText": "1311, 1413",
             "Type": "NR2",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Medicaid\/ CHIP",
             "target": 78,
-            "Combine": "(NR2)--115-->78\u00a7\u00a71311, 1413"
+            "Combine": "(NR2)--115-->781311, 1413"
         },
         {
-            "EdgeText": "\u00a71313, 10104",
+            "EdgeText": "1313, 10104",
             "Type": "NR2",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--115-->97\u00a71313, 10104"
+            "Combine": "(NR2)--115-->971313, 10104"
         },
         {
-            "EdgeText": "\u00a71312",
+            "EdgeText": "1312",
             "Type": "NR1",
             "StartNode": "Government Health Benefit Exchanges",
             "source": 115,
             "EndNode": "Congress\r Members\r & Personal Staff\r Mandate:\r Only Exchange\r Coverage",
             "target": 107,
-            "Combine": "(NR1)--115-->107\u00a71312"
+            "Combine": "(NR1)--115-->1071312"
         },
         {
-            "EdgeText": "\u00a7\u00a71301, 10104",
+            "EdgeText": "1301, 10104",
             "Type": "NR1",
             "StartNode": "Qualified\r Health\r Plans",
             "source": 122,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR1)--122-->115\u00a7\u00a71301, 10104"
+            "Combine": "(NR1)--122-->1151301, 10104"
         },
         {
-            "EdgeText": "\u00a71301",
+            "EdgeText": "1301",
             "Type": "NR1",
             "StartNode": "Qualified\r Health\r Plans",
             "source": 122,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--122-->102\u00a71301"
+            "Combine": "(NR1)--122-->1021301"
         },
         {
-            "EdgeText": "\u00a71311",
+            "EdgeText": "1311",
             "Type": "NR1",
             "StartNode": "Qualified\r Health\r Plans",
             "source": 122,
             "EndNode": "Physicians",
             "target": 32,
-            "Combine": "(NR1)--122-->32\u00a71311"
+            "Combine": "(NR1)--122-->321311"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR2",
             "StartNode": "Privacy Study",
             "source": 123,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--123-->103\u00a71411"
+            "Combine": "(NR2)--123-->1031411"
         },
         {
-            "EdgeText": "\u00a71411",
+            "EdgeText": "1411",
             "Type": "NR2",
             "StartNode": "Eligibility Determinations",
             "source": 124,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--124-->97\u00a71411"
+            "Combine": "(NR2)--124-->971411"
         },
         {
-            "EdgeText": "\u00a71342",
+            "EdgeText": "1342",
             "Type": "NR1",
             "StartNode": "Risk\r Corridors",
             "source": 125,
             "EndNode": "Small Group Market",
             "target": 160,
-            "Combine": "(NR1)--125-->160\u00a71342"
+            "Combine": "(NR1)--125-->1601342"
         },
         {
-            "EdgeText": "\u00a71342",
+            "EdgeText": "1342",
             "Type": "NR1",
             "StartNode": "Risk\r Corridors",
             "source": 125,
             "EndNode": "Individual Market",
             "target": 161,
-            "Combine": "(NR1)--125-->161\u00a71342"
+            "Combine": "(NR1)--125-->1611342"
         },
         {
-            "EdgeText": "\u00a71323; HCERA: \u00a71204",
+            "EdgeText": "1323; HCERA: 1204",
             "Type": "NR4",
             "StartNode": "US\r Territories",
             "source": 126,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR4)--126-->115\u00a71323; HCERA: \u00a71204"
+            "Combine": "(NR4)--126-->1151323; HCERA: 1204"
         },
         {
-            "EdgeText": "\u00a71001",
+            "EdgeText": "1001",
             "Type": "NR1",
             "StartNode": "Value-Based Insurance Design & Coverage of Preventive Health Services",
             "source": 127,
             "EndNode": "Essential Health Benefits Package",
             "target": 100,
-            "Combine": "(NR1)--127-->100\u00a71001"
+            "Combine": "(NR1)--127-->1001001"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR2",
             "StartNode": "Commission on Key Indicators",
             "source": 128,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--128-->103\u00a75605"
+            "Combine": "(NR2)--128-->1035605"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR2",
             "StartNode": "Commission on Key Indicators",
             "source": 128,
             "EndNode": "National Academy of Sciences",
             "target": 156,
-            "Combine": "(NR2)--128-->156\u00a75605"
+            "Combine": "(NR2)--128-->1565605"
         },
         {
-            "EdgeText": "\u00a76605",
+            "EdgeText": "6605",
             "Type": "NR1",
             "StartNode": "MEWA Health Plans",
             "source": 130,
             "EndNode": "National Academy of Sciences",
             "target": 156,
-            "Combine": "(NR1)--130-->\u00a76605"
+            "Combine": "(NR1)--130-->6605"
         },
         {
-            "EdgeText": "\u00a79002",
+            "EdgeText": "9002",
             "Type": "NR1",
             "StartNode": "W2\r Health\r Insurance\r Disclosure",
             "source": 131,
             "EndNode": "Employers",
             "target": 138,
-            "Combine": "(NR1)--131-->138\u00a79002"
+            "Combine": "(NR1)--131-->1389002"
         },
         {
-            "EdgeText": "\u00a71512",
+            "EdgeText": "1512",
             "Type": "NR2",
             "StartNode": "Small Employers",
             "source": 133,
             "EndNode": "Small Business Employees",
             "target": 140,
-            "Combine": "(NR2)--133-->140\u00a71512"
+            "Combine": "(NR2)--133-->1401512"
         },
         {
-            "EdgeText": "\u00a71421, 10105",
+            "EdgeText": "1421, 10105",
             "Type": "NR4",
             "StartNode": "Small\r Business\r Health Insurance\r Tax Credit",
             "source": 134,
             "EndNode": "Small Employers",
             "target": 133,
-            "Combine": "(NR4)--134-->133\u00a71421, 10105"
+            "Combine": "(NR4)--134-->1331421, 10105"
         },
         {
-            "EdgeText": "\u00a7\u00a79017, 10907",
+            "EdgeText": "9017, 10907",
             "Type": "NR1",
             "StartNode": "10%\r Tax On\r Indoor Tanning\r Services:",
             "source": 135,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--135-->144\u00a7\u00a79017, 10907"
+            "Combine": "(NR1)--135-->1449017, 10907"
         },
         {
-            "EdgeText": "\u00a79013",
+            "EdgeText": "9013",
             "Type": "NR1",
             "StartNode": "Only\r Medical Expenses\r Above 10% of Income\r (AGI) are Tax\r Deductible",
             "source": 136,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--136-->144\u00a79013"
+            "Combine": "(NR1)--136-->1449013"
         },
         {
-            "EdgeText": "\u00a71513, 10106",
+            "EdgeText": "1513, 10106",
             "Type": "NR1",
             "StartNode": "Employer Mandate",
             "source": 137,
             "EndNode": "Employers",
             "target": 138,
-            "Combine": "(NR1)--137-->138\u00a71513, 10106"
+            "Combine": "(NR1)--137-->1381513, 10106"
         },
         {
-            "EdgeText": "\u00a7\u00a71513, 10106; HCERA: \u00a71003",
+            "EdgeText": "1513, 10106; HCERA: 1003",
             "Type": "NR4",
             "StartNode": "Employers",
             "source": 138,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--138-->157\u00a7\u00a71513, 10106; HCERA: \u00a71003"
+            "Combine": "(NR4)--138-->1571513, 10106; HCERA: 1003"
         },
         {
-            "EdgeText": "\u00a7\u00a79001, 10901; HCERA \u00a71401",
+            "EdgeText": "9001, 10901; HCERA 1401",
             "Type": "NR4",
             "StartNode": "Employers",
             "source": 138,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--138-->157\u00a7\u00a79001, 10901; HCERA \u00a71401"
+            "Combine": "(NR4)--138-->1579001, 10901; HCERA 1401"
         },
         {
-            "EdgeText": "\u00a79002",
+            "EdgeText": "9002",
             "Type": "NR2",
             "StartNode": "Employers",
             "source": 138,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR2)--138-->157\u00a79002"
+            "Combine": "(NR2)--138-->1579002"
         },
         {
-            "EdgeText": "\u00a71511",
+            "EdgeText": "1511",
             "Type": "NR1",
             "StartNode": "Mandatory\r Worker Auto-\r Enrollment",
             "source": 141,
             "EndNode": "Large Employers",
             "target": 142,
-            "Combine": "(NR1)--141-->142\u00a71511"
+            "Combine": "(NR1)--141-->1421511"
         },
         {
-            "EdgeText": "\u00a71512",
+            "EdgeText": "1512",
             "Type": "NR2",
             "StartNode": "Large Employers",
             "source": 142,
             "EndNode": "Large Business Employees",
             "target": 139,
-            "Combine": "(NR2)--142-->139\u00a71512"
+            "Combine": "(NR2)--142-->1391512"
         },
         {
-            "EdgeText": "\u00a71511",
+            "EdgeText": "1511",
             "Type": "NR1",
             "StartNode": "Large Employers",
             "source": 142,
             "EndNode": "Large Business Employees",
             "target": 139,
-            "Combine": "(NR1)--142-->139\u00a71511"
+            "Combine": "(NR1)--142-->1391511"
         },
         {
-            "EdgeText": "\u00a71511",
+            "EdgeText": "1511",
             "Type": "NR1",
             "StartNode": "Large Employers",
             "source": 142,
             "EndNode": "Large Group Market",
             "target": 162,
-            "Combine": "(NR1)--142-->162\u00a71511"
+            "Combine": "(NR1)--142-->1621511"
         },
         {
-            "EdgeText": "\u00a7\u00a71514, 10106",
+            "EdgeText": "1514, 10106",
             "Type": "NR2",
             "StartNode": "Large Employers",
             "source": 142,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR2)--142-->157\u00a7\u00a71514, 10106"
+            "Combine": "(NR2)--142-->1571514, 10106"
         },
         {
-            "EdgeText": "\u00a71501",
+            "EdgeText": "1501",
             "Type": "NR1",
             "StartNode": "Individual\r Mandate:\r Buy Health\r Insurance",
             "source": 143,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--143-->144\u00a71501"
+            "Combine": "(NR1)--143-->1441501"
         },
         {
-            "EdgeText": "\u00a7\u00a79004, 9005; HCERA \u00a71402",
+            "EdgeText": "9004, 9005; HCERA 1402",
             "Type": "NR4",
             "StartNode": "Individuals",
             "source": 144,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--144-->157\u00a7\u00a79004, 9005; HCERA \u00a71402"
+            "Combine": "(NR4)--144-->1579004, 9005; HCERA 1402"
         },
         {
-            "EdgeText": "\u00a7\u00a71501, 10106; HCERA \u00a7\u00a71002, 1004",
+            "EdgeText": "1501, 10106; HCERA 1002, 1004",
             "Type": "NR4",
             "StartNode": "Individuals",
             "source": 144,
             "EndNode": "IRS",
             "target": 157,
-            "Combine": "(NR4)--144-->157\u00a7\u00a71501, 10106; HCERA \u00a7\u00a71002, 1004"
+            "Combine": "(NR4)--144-->1571501, 10106; HCERA 1002, 1004"
         },
         {
-            "EdgeText": "\u00a7\u00a79015, 10906; HCERA \u00a71402",
+            "EdgeText": "9015, 10906; HCERA 1402",
             "Type": "NR4",
             "StartNode": "Individuals",
             "source": 144,
             "EndNode": "Medicare Part A Trust Fund",
             "target": 21,
-            "Combine": "(NR4)--144-->21\u00a7\u00a79015, 10906; HCERA \u00a71402"
+            "Combine": "(NR4)--144-->219015, 10906; HCERA 1402"
         },
         {
-            "EdgeText": "\u00a7\u00a79005, 10902; HCERA \u00a71403",
+            "EdgeText": "9005, 10902; HCERA 1403",
             "Type": "NR1",
             "StartNode": "FSA\r Contribution\r Limit: $2,500",
             "source": 147,
             "EndNode": "Flexible Spending Arrangement",
             "target": 145,
-            "Combine": "(NR1)--147-->145\u00a7\u00a79005, 10902; HCERA \u00a71403"
+            "Combine": "(NR1)--147-->1459005, 10902; HCERA 1403"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR2",
             "StartNode": "HHS Inspector General",
             "source": 150,
             "EndNode": "Congress",
             "target": 103,
-            "Combine": "(NR2)--150-->103\u00a78002"
+            "Combine": "(NR2)--150-->1038002"
         },
         {
-            "EdgeText": "\u00a71313, 10104",
+            "EdgeText": "1313, 10104",
             "Type": "NR3",
             "StartNode": "HHS Inspector General",
             "source": 150,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR3)--150-->115\u00a71313, 10104"
+            "Combine": "(NR3)--150-->1151313, 10104"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR1",
             "StartNode": "Advisory Board on Elder Abuse, Neglect, & Exploitation",
             "source": 151,
             "EndNode": "Multi- Disciplinary Panels on Improving Long- Term Care",
             "target": 152,
-            "Combine": "(NR1)--151-->152\u00a76703"
+            "Combine": "(NR1)--151-->1526703"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR2",
             "StartNode": "Multi- Disciplinary Panels on Improving Long- Term Care",
             "source": 152,
             "EndNode": "Advisory Board on Elder Abuse, Neglect, & Exploitation",
             "target": 151,
-            "Combine": "(NR2)--152-->151\u00a76703"
+            "Combine": "(NR2)--152-->1516703"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR3",
             "StartNode": "National Training Institute for Federal and State Surveyors",
             "source": 153,
             "EndNode": "State Surveyors",
             "target": 109,
-            "Combine": "(NR3)--153-->109\u00a76703"
+            "Combine": "(NR3)--153-->1096703"
         },
         {
-            "EdgeText": "\u00a76703",
+            "EdgeText": "6703",
             "Type": "NR2",
             "StartNode": "Elder Justice Coordinating Council",
             "source": 155,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--155-->97\u00a76703"
+            "Combine": "(NR2)--155-->976703"
         },
         {
-            "EdgeText": "\u00a75605",
+            "EdgeText": "5605",
             "Type": "NR1",
             "StartNode": "National Academy of Sciences",
             "source": 156,
             "EndNode": "Key National Indicator System Implementation Institute",
             "target": 129,
-            "Combine": "(NR1)--156-->129\u00a75605"
+            "Combine": "(NR1)--156-->1295605"
         },
         {
-            "EdgeText": "\u00a7\u00a71501, 10106; HCERA \u00a7\u00a71002, 1004",
+            "EdgeText": "1501, 10106; HCERA 1002, 1004",
             "Type": "NR1",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Individual\r Mandate:\r Buy Health\r Insurance",
             "target": 143,
-            "Combine": "(NR1)--157-->143\u00a7\u00a71501, 10106; HCERA \u00a7\u00a71002, 1004"
+            "Combine": "(NR1)--157-->1431501, 10106; HCERA 1002, 1004"
         },
         {
-            "EdgeText": "\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004",
+            "EdgeText": "1401, 1412, 10105; HCERA 1001, 1004",
             "Type": "NR4",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Premium\r Tax Credit\r Subsidies",
             "target": 173,
-            "Combine": "(NR4)--157-->173\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004"
+            "Combine": "(NR4)--157-->1731401, 1412, 10105; HCERA 1001, 1004"
         },
         {
-            "EdgeText": "\u00a7\u00a71513, 10106; HCERA \u00a71003",
+            "EdgeText": "1513, 10106; HCERA 1003",
             "Type": "NR1",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Employer Mandate",
             "target": 137,
-            "Combine": "(NR1)--157-->137\u00a7\u00a71513, 10106; HCERA \u00a71003"
+            "Combine": "(NR1)--157-->1371513, 10106; HCERA 1003"
         },
         {
-            "EdgeText": "\u00a7\u00a71402, 1412; HCERA \u00a71001",
+            "EdgeText": "1402, 1412; HCERA 1001",
             "Type": "NR4",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Subsidies:\r Out-of-Pocket\r Expenses",
             "target": 172,
-            "Combine": "(NR4)--157-->172\u00a7\u00a71402, 1412; HCERA \u00a71001"
+            "Combine": "(NR4)--157-->1721402, 1412; HCERA 1001"
         },
         {
-            "EdgeText": "\u00a71421, 10105",
+            "EdgeText": "1421, 10105",
             "Type": "NR4",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Small\r Business\r Health Insurance\r Tax Credit",
             "target": 134,
-            "Combine": "(NR4)--157-->134\u00a71421, 10105"
+            "Combine": "(NR4)--157-->1341421, 10105"
         },
         {
-            "EdgeText": "\u00a7\u00a71514, 10106",
+            "EdgeText": "1514, 10106",
             "Type": "NR1",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Large Employers",
             "target": 142,
-            "Combine": "(NR1)--157-->142\u00a7\u00a71514, 10106"
+            "Combine": "(NR1)--157-->1421514, 10106"
         },
         {
-            "EdgeText": "\u00a71414",
+            "EdgeText": "1414",
             "Type": "NR2",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--157-->97\u00a71414"
+            "Combine": "(NR2)--157-->971414"
         },
         {
-            "EdgeText": "\u00a71414",
+            "EdgeText": "1414",
             "Type": "NR2",
             "StartNode": "IRS",
             "source": 157,
             "EndNode": "Homeland Security Department",
             "target": 2,
-            "Combine": "(NR2)--157-->2\u00a71414",
+            "Combine": "(NR2)--157-->21414",
             "Unnamed: 8": null,
             "Unnamed: 9": "For row 190 you can put Labor Department as the TO node"
         },
         {
-            "EdgeText": "\u00a7\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR3",
             "StartNode": "Treasury Department",
             "source": 158,
             "EndNode": "Optional\r Basic Health\r Program",
             "target": 114,
-            "Combine": "(NR3)--158-->114\u00a7\u00a71331, 10104"
+            "Combine": "(NR3)--158-->1141331, 10104"
         },
         {
-            "EdgeText": "\u00a71331, 10104",
+            "EdgeText": "1331, 10104",
             "Type": "NR2",
             "StartNode": "Treasury Department",
             "source": 158,
             "EndNode": "Secretary Health & Human Services",
             "target": 97,
-            "Combine": "(NR2)--158-->97\u00a71331, 10104"
+            "Combine": "(NR2)--158-->971331, 10104"
         },
         {
-            "EdgeText": "\u00a71311",
+            "EdgeText": "1311",
             "Type": "NR4",
             "StartNode": "Treasury Department",
             "source": 158,
             "EndNode": "Government Health Benefit Exchanges",
             "target": 115,
-            "Combine": "(NR4)--158-->115\u00a71311"
+            "Combine": "(NR4)--158-->1151311"
         },
         {
-            "EdgeText": "\u00a78002",
+            "EdgeText": "8002",
             "Type": "NR4",
             "StartNode": "Treasury Department",
             "source": 158,
             "EndNode": "CLASS Independence Fund",
             "target": 55,
-            "Combine": "(NR4)--158-->55\u00a78002"
+            "Combine": "(NR4)--158-->558002"
         },
         {
-            "EdgeText": "\u00a74002",
+            "EdgeText": "4002",
             "Type": "NR4",
             "StartNode": "Treasury Department",
             "source": 158,
             "EndNode": "Prevention & Public Health Fund",
             "target": 58,
-            "Combine": "(NR4)--158-->58\u00a74002"
+            "Combine": "(NR4)--158-->584002"
         },
         {
-            "EdgeText": "\u00a73311",
+            "EdgeText": "3311",
             "Type": "NR2",
             "StartNode": "Medicare Part C & Part D Insurers",
             "source": 163,
             "EndNode": "Medicare Prescription Drug and MA-PD Complaint System",
             "target": 89,
-            "Combine": "(NR2)--163-->89\u00a73311"
+            "Combine": "(NR2)--163-->893311"
         },
         {
-            "EdgeText": "\u00a7\u00a79001, 10901; HCERA \u00a71401",
+            "EdgeText": "9001, 10901; HCERA 1401",
             "Type": "NR1",
             "StartNode": "\u201cCadillac\r Plans\u201d Tax",
             "source": 166,
             "EndNode": "Employers",
             "target": 138,
-            "Combine": "(NR1)--166-->138\u00a7\u00a79001, 10901; HCERA \u00a71401"
+            "Combine": "(NR1)--166-->1389001, 10901; HCERA 1401"
         },
         {
-            "EdgeText": "\u00a7\u00a79001, 10901; HCERA \u00a71401",
+            "EdgeText": "9001, 10901; HCERA 1401",
             "Type": "NR1",
             "StartNode": "\u201cCadillac\r Plans\u201d Tax",
             "source": 166,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--166-->102\u00a7\u00a79001, 10901; HCERA \u00a71401"
+            "Combine": "(NR1)--166-->1029001, 10901; HCERA 1401"
         },
         {
-            "EdgeText": "\u00a7\u00a71001, 10101",
+            "EdgeText": "1001, 10101",
             "Type": "NR1",
             "StartNode": "\u201cExcessive\r Profits\u201d",
             "source": 167,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--167-->102\u00a7\u00a71001, 10101"
+            "Combine": "(NR1)--167-->1021001, 10101"
         },
         {
-            "EdgeText": "\u00a79004",
+            "EdgeText": "9004",
             "Type": "NR1",
             "StartNode": "Misuse of\r HSA Funds",
             "source": 168,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--168-->144\u00a79004"
+            "Combine": "(NR1)--168-->1449004"
         },
         {
-            "EdgeText": "\u00a79004",
+            "EdgeText": "9004",
             "Type": "NR1",
             "StartNode": "3.8%\r Investment\r Income Tax",
             "source": 169,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--169-->144\u00a79004"
+            "Combine": "(NR1)--169-->1449004"
         },
         {
-            "EdgeText": "\u00a79003",
+            "EdgeText": "9003",
             "Type": "NR1",
             "StartNode": "HSA\r Use Restriction",
             "source": 170,
             "EndNode": "Health Savings Accounts",
             "target": 165,
-            "Combine": "(NR1)--170-->165\u00a79003"
+            "Combine": "(NR1)--170-->1659003"
         },
         {
-            "EdgeText": "\u00a7\u00a79015, 10906; HCERA \u00a71402",
+            "EdgeText": "9015, 10906; HCERA 1402",
             "Type": "NR1",
             "StartNode": "Medicare\r Payroll Tax\r Increase: 0.9%",
             "source": 171,
             "EndNode": "Individuals",
             "target": 144,
-            "Combine": "(NR1)--171-->144\u00a7\u00a79015, 10906; HCERA \u00a71402"
+            "Combine": "(NR1)--171-->1449015, 10906; HCERA 1402"
         },
         {
-            "EdgeText": "\u00a7\u00a71402, 1412; HCERA \u00a71001",
+            "EdgeText": "1402, 1412; HCERA 1001",
             "Type": "NR4",
             "StartNode": "Subsidies:\r Out-of-Pocket\r Expenses",
             "source": 172,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR4)--172-->102\u00a7\u00a71402, 1412; HCERA \u00a71001"
+            "Combine": "(NR4)--172-->1021402, 1412; HCERA 1001"
         },
         {
-            "EdgeText": "\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004",
+            "EdgeText": "1401, 1412, 10105; HCERA 1001, 1004",
             "Type": "NR4",
             "StartNode": "Premium\r Tax Credit\r Subsidies",
             "source": 173,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR4)--173-->102\u00a7\u00a71401, 1412, 10105; HCERA \u00a7\u00a71001, 1004"
+            "Combine": "(NR4)--173-->1021401, 1412, 10105; HCERA 1001, 1004"
         },
         {
-            "EdgeText": "\u00a7\u00a79010, 10905; HCERA \u00a71406",
+            "EdgeText": "9010, 10905; HCERA 1406",
             "Type": "NR1",
             "StartNode": "Annual Fee 1",
             "source": 175,
             "EndNode": "Health Insurance Companies",
             "target": 102,
-            "Combine": "(NR1)--175-->102\u00a7\u00a79010, 10905; HCERA \u00a71406"
+            "Combine": "(NR1)--175-->1029010, 10905; HCERA 1406"
         }
     ]
 }
